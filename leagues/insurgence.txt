@@ -257,21 +257,21 @@ zebstrika|76|thunderbolt,overheat,dazzling-gleam,hidden-power|sap-sipper|zebstri
 kyurem|77|toxic,ice-beam,substitute,roost|pressure|leftovers|||
 mewtwo|77|recover,psyshock,aura-sphere,fire-blast|pressure|life-orb|||
 
---perf5_e|Taen|# Alpha Templte||#/leaders/insurgence-taen|# alpha templte#@<ARTIST>@<CREDITLINK>
+--perf5_e|Taen|# Alpha Temple||#/leaders/insurgence-taen|# alpha templte#@<ARTIST>@<CREDITLINK>
 poliwrath|92|hydro-pump,drain-punch,earthquake,circle-throw|water-absorb|poliwrathite|||
 gallade|91|swords-dance,close-combat,psycho-cut,leaf-blade|steadfast||||
 delta-darmanitan|91|payback,shadow-claw,new-moon,rock-slide|unnerve||||
 zebstrika|91|wild-charge,discharge,play-rough,flame-charge|lightning-rod||||
 kyurem|92|dragon-claw,ice-beam,fusion-bolt,draco-jet|teravolt||||
 mewtwo|92|psychic,aura-sphere,recover,thunderbolt|pressure||||
---perf5_n|Taen|# Alpha Templte||#/leaders/insurgence-taen|# alpha templte#@<ARTIST>@<CREDITLINK>
+--perf5_n|Taen|# Alpha Temple||#/leaders/insurgence-taen|# alpha templte#@<ARTIST>@<CREDITLINK>
 delta-darmanitan|91|knock-off,shadow-claw,u-turn,rock-slide|unnerve|choice-scarf|||
 poliwrath|93|waterfall,dynamic-punch,hypnosis,earthquake|water-absorb|poliwrathite|||
 gallade|91|swords-dance,close-combat,zen-headbutt,knock-off|steadfast|life-orb|||
 zebstrika|92|wild-charge,overheat,play-rough,hidden-power|sap-sipper|life-orb|||
 kyurem|94|fusion-bolt,ice-beam,substitute,roost|teravolt|leftovers|||
 mewtwo|94|ice-beam,psyshock,focus-blast,calm-mind|pressure|life-orb|||
---perf5_h|Taen|# Alpha Templte||#/leaders/insurgence-taen|# alpha templte#@<ARTIST>@<CREDITLINK>
+--perf5_h|Taen|# Alpha Temple||#/leaders/insurgence-taen|# alpha templte#@<ARTIST>@<CREDITLINK>
 poliwrath|95|waterfall,dynamic-punch,substitute,hypnosis|water-absorb|poliwrathite|||
 gallade|92|ice-punch,close-combat,zen-headbutt,knock-off|justified|life-orb|||
 delta-darmanitan|93|knock-off,earthquake,roar,destiny-bond|wonder-skin|life-orb|||

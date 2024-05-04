@@ -1,0 +1,437 @@
+### A huge thank you to domtronn for getting and formatting most of this
+### information - I've just tried to compile it in a way that I feel is more
+### understandable (separate games for Easy/Medium/Hard difficulties and
+### temporarily removed info for postgame fights)
+
+### DEV ###
+# https://wiki.p-insurgence.com/Orion
+
+####################
+### Cult Leaders ###
+####################
+
+### Cult of Darkrai (Persephone)
+
+--dark1_e|Persephone||#/leaders/insurgence-persephone#@<ARTIST>@<CREDITLINK>
+zoroark|61|dark-pulse,focus-blast,foul-play,nasty-plot|illusion|zoronite|||
+spiritomb|60|dark-pulse,hypnosis,ominous-wind,nasty-plot|pressure||||
+greninja|60|hydro-pump,extrasensory,double-team,dark-pulse|torrent||||
+houndoom|60|dark-pulse,nasty-plot,roar,fire-blast|early-bird||||
+gengar|60|hex,hypnosis,dream-eater,destiny-bond|levitate||||
+
+--dark2_e|Persephone||#/leaders/insurgence-persephone#@<ARTIST>@<CREDITLINK>
+spiritomb|79|dark-pulse,hypnosis,calm-mind,dream-eater|pressure|spiritombite|||
+houndoom|77|dark-pulse,fire-blast,nasty-plot,roar|early-bird||||
+alakazam|78|psychic,calm-mind,focus-blast,recover|synchronize||||
+metagross|78|meteor-mash,bullet-punch,ice-punch,brick-break|clear-body||||
+hydreigon|78|dark-pulse,headbutt,dragon-pulse,body-slam|levitate||||
+gengar|78|sludge-bomb,hypnosis,dream-eater,hex|levitate||||
+
+### Persephone's third fight is postgame
+
+
+
+### Infernal Cult (Zenith)
+
+--inf1_e|Zenith|# Fiery Caverns||#/leaders/insurgence-zenith|# fiery caverns#@<ARTIST>@<CREDITLINK>
+blaziken|59|flare-blitz,sky-uppercut,bulk-up,brave-bird|blaze||||
+excadrill|59|earthquake,horn-drill,rock-slide,swords-dance|sand-rush||||
+volcarona|59|quiver-dance,psychic,flamethrower,silver-wind|flame-body||||
+chandelure|59|flamethrower,confuse-ray,shadow-ball,will-o-wisp|flash-fire||||
+magcargo|60|recover,earth-power,lava-plume,ancient-power|magma-armor|magcargonite|||
+
+--inf2_e|Zenith# Infernal Base||#/leaders/insurgence-zenith# infernal base#@<ARTIST>@<CREDITLINK>
+excadrill|75|earthquake,fissure,rock-slide,swords-dance|mold-breaker||||
+chandelure|76|flamethrower,confuse-ray,shadow-ball,will-o-wisp|flash-fire||||
+heatran|77|lava-plume,earth-power,flash-cannon,magma-storm|flash-fire||||
+volcarona|76|bug-buzz,flamethrower,psychic,quiver-dance|flame-body||||
+blaziken|76|flare-blitz,sky-uppercut,bulk-up,thunder-punch|blaze|blazikenite|||
+
+
+
+### Abyssal Cult (Audrey)
+
+--abys1_e|Audrey|#Whirl Islands||#/leaders/insurgence-audrey|#whirl islands#@<ARTIST>@<CREDITLINK>
+lanturn|51|hydro-pump,discharge,signal-beam,confuse-ray|volt-absorb||||
+ludicolo|51|zen-headbutt,hydro-pump,giga-drain,knock-off|swift-swim||||
+swampert|51|earthquake,rock-slide,muddy-water,mud-shot|torrent||||
+kingdra|51|smokescreen,dragon-pulse,brine,bubble-beam|swift-swim||||
+crawdaunt|51|crabhammer,swords-dance,taunt,crunch|hyper-cutter|crawdite|||
+lugia|52|aeroblast,extrasensory,weather-ball,roost|pressure||||
+
+--abys2_e|Audrey|#Abyssal Base||#/leaders/insurgence-audrey|#abyssal base#@<ARTIST>@<CREDITLINK>
+lanturn|55|hydro-pump,discharge,signal-beam,confuse-ray|volt-absorb||||
+ludicolo|55|zen-headbutt,hydro-pump,giga-drain,knock-off|swift-swim||||
+alakazam|55|psychic,calm-mind,dazzling-gleam,recover|synchronize||||
+kingdra|55|smokescreen,dragon-pulse,brine,bubble-beam|swift-swim||||
+crawdaunt|55|crabhammer,swords-dance,taunt,crunch|hyper-cutter|crawdite|||
+kyogre|56|origin-pulse,ice-beam,body-slam,calm-mind|drizzle||||
+
+
+
+### Perfection Cult (Taen only; Reukra is listed as Champion Reukra)
+
+--perf1_e|Taen|#Perfection Base||#/leaders/insurgence-taen|#perfection base#@<ARTIST>@<CREDITLINK>
+kyurem|43|ice-beam,slash,dragon-breath,scary-face|pressure||||
+stunfisk|44|discharge,bounce,muddy-water,endure|static|stunfiskite|||
+pyroar|43|flamethrower,crunch,echoed-voice,endeavor|rivalry||||
+grumpig|44|psyshock,teeter-dance,rest,snore|thick-fat||||
+
+--perf2_e|Taen|#Kepler City||#/leaders/insurgence-taen|#kepler city#@<ARTIST>@<CREDITLINK>
+charizard|56|shadow-claw,dragon-claw,wing-attack,flare-blitz|blaze|charizardite-x|||
+luxray|56|thunder-fang,discharge,swagger,crunch|intimidate||||
+kyurem|57|substitute,ice-beam,dragon-claw,dragon-pulse|pressure||||
+zekrom|57|fusion-bolt,zen-headbutt,dragon-claw,thunderbolt|teravolt|zekrom-armor|||
+
+--perf3_e|Taen|#Dragon Ruins||#/leaders/insurgence-taen|#dragon ruins#@<ARTIST>@<CREDITLINK>
+metagross|65|bullet-punch,hammer-arm,pursuit,zen-headbutt|clear-body||||
+salamence|65|dragon-claw,fly,flamethrower,iron-tail|intimidate||||
+typhlosion|65|flamethrower,eruption,lava-plume,double-edge|flash-fire|typhlosionite|||
+luxray|65|wild-charge,discharge,swagger,crunch|intimidate||||
+zekrom|66|fusion-bolt,zen-headbutt,dragon-claw,thunderbolt|teravolt|zekrom-armor|||
+kyurem|66|dragon-claw,ice-beam,earth-power,fusion-flare|turboblaze||||
+
+--perf4_e|Taen|#Perfection Base||#/leaders/insurgence-taen|#perfection base#@<ARTIST>@<CREDITLINK>
+poliwrath|73|hydro-pump,drain-punch,earthquake,circle-throw|water-absorb||||
+gallade|73|swords-dance,close-combat,psycho-cut,leaf-blade|steadfast||||
+delta-darmanitan|73|payback,shadow-claw,new-moon,rock-slide|unnerve||||
+zebstrika|73|wild-charge,discharge,dazzling-gleam,flame-charge|lightning-rod|zebstrikite|||
+kyurem|73|dragon-pulse,ice-beam,substitute,roost|pressure||||
+mewtwo|74|psychic,aura-sphere,recover,thunderbolt|pressure||||
+
+# Taen's fifth and sixth fights are postgame
+
+
+
+### Sky Cult (Jaern)
+
+--j1_e|Jaern|||#/leaders/insurgence-jaern|#@<ARTIST>@<CREDITLINK>
+rayquaza|48|dragon-pulse,extreme-speed,crunch,aerial-ace|air-lock||||
+
+--j2_e|Jaern|||#/leaders/insurgence-jaern|#@<ARTIST>@<CREDITLINK>
+aegislash-blade>aegislash-blade|79|kings-shield,gyro-ball,toxic,pursuit|stance-change||||
+goodra|80|aqua-tail,body-slam,earthquake,outrage|sap-sipper||||
+arcanine|80|extreme-speed,crunch,overheat,roar|justified||||
+lucario|80|close-combat,hone-claws,endure,reversal|justified||||
+salamence|80|dragon-claw,zen-headbutt,rock-slide,dragon-dance|intimidate||||
+rayquaza|81|dragon-pulse,fly,crunch,extreme-speed|air-lock||||
+
+
+
+### Damned Cult (Nyx)
+
+--nyx_e|Nyx|# Throne of the Hegemon||#/leaders/insurgence-nyx|#perfection base#@<ARTIST>@<CREDITLINK>
+
+
+
+###################
+### Gym Leaders ###
+###################
+
+### Orion
+
+--1_e|Orion|fire|||#/leaders/insurgence-orion|fire|#@<ARTIST>@<CREDITLINK>
+vulpix|23|incinerate,will-o-wisp,sunny-day,confuse-ray|flash-fire||||
+deerling|23|take-down,feint-attack,leech-seed,double-kick|chlorophyll||||
+ivysaur|23|acid,razor-leaf,leech-seed,sleep-powder|overgrow||||
+charmeleon|23|sunny-day,incinerate,flame-charge,rock-tomb|blaze||||
+
+
+
+### Xavier
+
+--2_e|Xavier|bug/poison||#/leaders/insurgence-xavier|bug/poison#@<ARTIST>@<CREDITLINK>
+shuckle|33|rest,sandstorm,infestation,encore|sturdy||||
+heracross|33|pin-missile,brick-break,counter,rock-slide|swarm||||
+croagunk|33|swagger,mud-bomb,venoshock,toxic|anticipation||||
+tentacruel|33|water-pulse,venoshock,acid-spray,barrier|clear-body||||
+haunter|33|shadow-punch,venoshock,confuse-ray,hypnosis|levitate||||
+beedrill|33|pin-missile,drill-run,poison-jab,pursuit|swarm|life-orb|||
+
+
+
+### East
+
+--3_e|East|flying||#/leaders/insurgence-east|flying#@<ARTIST>@<CREDITLINK>
+skarmory|46|steel-wing,aerial-ace,spikes,metal-sound|keen-eye||||
+noibat|46|dragon-pulse,psychic,hurricane,dark-pulse|frisk||||
+kingdra|46|water-pulse,dragon-pulse,agility,smokescreen|swift-swim||||
+talonflame|46|flare-blitz,aerial-ace,roost,flail|flame-body||||
+gliscor|46|earthquake,acrobatics,screech,u-turn|hyper-cutter||||
+altaria|46|aerial-ace,dragon-pulse,hyper-beam,cotton-guard|natural-cure|altarianite|||
+
+
+
+### Harmony
+
+--4_e|Harmony|fairy||#/leaders/insurgence-harmony|fairy#@<ARTIST>@<CREDITLINK>
+cinccino|53|tail-slap,rock-blast,bullet-seed,sing|skill-link||||
+azumarill|53|double-edge,aqua-tail,superpower,play-rough|huge-power||||
+gardevoir|53|dazzling-gleam,calm-mind,psychic,hypnosis|synchronize||||
+sylveon|53|dazzling-gleam,draining-kiss,psyshock,light-screen|cute-charm||||
+togekiss|53|dazzling-gleam,aura-sphere,sky-attack,extreme-speed|hustle||||
+miltank|53|zen-headbutt,body-slam,rollout,defense-curl|scrappy|miltankite|||
+
+
+
+### Anastasia
+
+--5_e|Anastasia|steel/electric||#/leaders/insurgence-anastasia|steel/electric#@<ARTIST>@<CREDITLINK>
+klefki|56|spikes,metal-sound,foul-play,play-rough|prankster||||
+electivire|56|thunderbolt,low-kick,thunder-punch,giga-impact|motor-drive||||
+magnezone|56|thunderbolt,magnet-rise,flash-cannon,tri-attack|magnet-pull|air-balloon|||
+rotom|56|hydro-pump,thunderbolt,confuse-ray,substitute|levitate||||
+aegislash-blade>aegislash-blade|56|kings-shield,sacred-sword,swords-dance,shadow-sneak|stance-change||||
+metagross|56|hammer-arm,meteor-mash,zen-headbutt,bullet-punch|clear-body|metagrossite|||
+
+
+
+### Diana
+
+--6_e|Diana|psychic/ghost||#/leaders/insurgence-diana|psychic/ghost#@<ARTIST>@<CREDITLINK>
+sableye|61|zen-headbutt,knock-off,confuse-ray,foul-play|keen-eye||||
+gardevoir|61|draining-kiss,calm-mind,psychic,double-team|synchronize||||
+chandelure|61|flamethrower,will-o-wisp,hex,psychic|flash-fire||||
+gengar|61|shadow-ball,sludge-bomb,confuse-ray,destiny-bond|levitate||||
+cresselia|61|psycho-shift,moonlight,psychic,aurora-beam|levitate||||
+gothitelle|61|calm-mind,psyshock,dark-pulse,psychic|frisk|gothitite|||
+
+
+
+### Calreath
+
+--7_e|Calreath|water|||#/leaders/insurgence-calreath|water|#@<ARTIST>@<CREDITLINK>
+politoed|72|hypnosis,psychic,hydro-pump,mud-bomb|water-absorb|politoedite|||
+heliolisk|72|volt-switch,hyper-beam,surf,thunder|dry-skin||||
+dragonite|72|hurricane,aqua-tail,outrage,safeguard|multiscale||||
+kabutops|72|aqua-jet,rock-slide,low-kick,x-scissor|battle-armor||||
+goodra|72|rain-dance,thunder,dragon-pulse,muddy-water|hydration||||
+manaphy|73|calm-mind,water-pulse,rain-dance,ice-beam|hydration|wacan-berry|||
+
+
+
+### Adam
+
+--8_e|Adam|dark||#/leaders/insurgence-adam|dark#@<ARTIST>@<CREDITLINK>
+greninja|79|substitute,spikes,haze,dark-pulse|torrent||||
+bisharp|79|night-slash,swords-dance,iron-head,psycho-cut|defiant||||
+tyranitar|80|earthquake,crunch,stone-edge,rock-polish|sand-stream||||
+drapion|80|poison-jab,knock-off,earthquake,swords-dance|battle-armor|life-orb|||
+spiritomb|80|confuse-ray,zen-headbutt,shadow-sneak,knock-off|pressure||||
+hydreigon|81|dark-matter,body-slam,dragon-pulse,roost|levitate|hydreigonite|||
+
+
+
+##################
+### Elite Four ###
+##################
+
+--e1_e|Kayla||#/leaders/insurgence-kayla#@<ARTIST>@<CREDITLINK>
+==info:<p><b>Baton Pass Expert:</b>Kayla specialises in the use of Baton Pass techniques</p>
+smeargle|87+|ingrain,quiver-dance,spore,baton-pass|moody|focus-sash|||
+blaziken|87+|bulk-up,substitute,fire-punch,baton-pass|speed-boost|focus-sash|||
+scizor|87+|iron-defense,bullet-punch,swords-dance,baton-pass|technician|leftovers|||
+espeon|87+|calm-mind,stored-power,substitute,baton-pass|magic-bounce|leftovers|||
+sylveon|87+|calm-mind,stored-power,hyper-voice,baton-pass|pixilate|leftovers|||
+slowbro|88+|slack-off,scald,psyshock,calm-mind|own-tempo|slowbronite|||
+
+
+
+--e2_e|Eduard|||#/leaders/insurgence-eduard|#@<ARTIST>@<CREDITLINK>
+==info:<p><b>Sandstorm Expert:</b> Eduard specialises in the use of Sandstorm techniques</p>
+hippowdon|87+|earthquake,crunch,slack-off,yawn|sand-stream||||
+garchomp|87+|earthquake,dragon-rush,iron-head,crunch|sand-veil||||
+aegislash-blade>aegislash-blade|87+|flash-cannon,shadow-ball,kings-shield,head-smash|stance-change||||
+excadrill|87+|earthquake,metal-claw,swords-dance,sandstorm|sand-rush||||
+rotom|87+|pain-split,thunder-wave,thunderbolt,hydro-pump|levitate||||
+cacturne|88+|sandstorm,energy-ball,sucker-punch,destiny-bond|sand-veil|cacturnite|||
+
+
+
+--e3_e|Yuki|||#/leaders/insurgence-yuki|#@<ARTIST>@<CREDITLINK>
+==info:<p><b>Hail Expert:<b> Yuki specialises in the use of Hail techniques</p>
+mamoswine|87+|earthquake,ice-shard,hail,stealth-rock|oblivious||||
+delta-trevenant|87+|leech-seed,close-combat,play-rough,misty-terrain|snow-warning||||
+rotom|87+|blizzard,thunderbolt,hail,pain-split|levitate||||
+chandelure|87+|psychic,flamethrower,shadow-ball,will-o-wisp|flash-fire||||
+starmie|87+|ice-beam,surf,psychic,recover|illuminate||||
+cryogonal|88+|freeze-dry,sheer-cold,recover,ice-beam|levitate|cryogonite|||
+
+
+
+--e4_e|London|||#/leaders/insurgence-london|#@<ARTIST>@<CREDITLINK>
+==info:<p><b>Trick Room Expert:</b> London specialises in the use of Trick Room techniques</p>
+reuniclus|88+|psychic,shadow-ball,recover,calm-mind|overcoat|reuniclite|||
+conkeldurr|87+|superpower,stone-edge,facade,poison-jab|guts||||
+togekiss|87+|air-slash,roost,dazzling-gleam,extreme-speed|serene-grace||||
+jellicent|87+|trick-room,shadow-ball,recover,scald|water-absorb||||
+scizor|87+|u-turn,bullet-punch,roost,pursuit|technician||||
+marowak|87+|rock-slide,earthquake,bone-rush,shadow-sneak|rock-head||||
+
+
+
+### ----------------------------------------------------------------------------------
+
+--ec_e|Reukra||#/leaders/insurgence-reukra#@<ARTIST>@<CREDITLINK>
+tyranitar|89+|rock-slide,giga-impact,crunch,focus-punch|sand-stream|tyranitar-armor|||
+delta-haxorus|89+|iron-tail,waterfall,metal-burst,autotomize|water-veil||||
+kyurem|90+|dragon-pulse,ice-beam,earth-power,substitute|pressure||||
+mewtwo|90+|psychic,ice-beam,recover,thunderbolt|intimidate||||
+delta-volcarona|89+|dark-pulse,sludge-bomb,new-moon,spacial-rend|absolution||||
+flygon|90+|ancient-roar,bug-buzz,earth-power,draco-meteor|levitate|flygonite|||
+
+
+
+###################
+### Mini-bosses ###
+###################
+
+--abym_e|Abyssal Cultist|# Ancient Ruins||#/leaders/insurgence-abyssal-cultist#@<ARTIST>@<CREDITLINK>
+horsea|17|smokescreen,leer,water-gun,twister|swift-swim||||
+skrelp|17|feint-attack,tail-whip,bubble,acid|poison-point||||
+corphish|18|vice-grip,leer,bubble-beam,protect|hyper-cutter||||
+
+### Documentation is lacking for this fight on Easy/Normal, this is my best guess
+### All abilities may be wrong, honestly
+
+
+
+--ancm_e|Ancient Oracle|# Utira Library||#/leaders/insurgence-ancient-oracle#@<ARTIST>@<CREDITLINK>
+claydol|49|power-trick,hyper-beam,earth-power,sandstorm|levitate||||
+jellicent|49|ominous-wind,brine,rain-dance,hex|water-absorb||||
+delphox|49|psyshock,mystical-fire,flamethrower,will-o-wisp|blaze||||
+aegislash|49|swords-dance,aerial-ace,king's-shield,sacred-sword|stance-change||||
+banette|50|shadow-ball,embargo,sucker-punch,snatch|insomnia||||
+
+### Note: Jellicent can have either Water Absorb or Cursed Body, and Banette
+### can have either Insomnia or Frisk. I'm not sure how to put this in.
+
+
+
+--medm_e|Medium A. Williams|# Oranos Town||#/leaders/insurgence-medium-a-williams#@<ARTIST>@<CREDITLINK>
+mismagius|67|psywave,growl,astonish,spite|levitate||||
+bronzong|67|extrasensory,payback,heal-block,heavy-slam|levitate||||
+gengar|67|dark-pulse,destiny-bond,hex,nightmare|levitate||||
+alakazam|67|psychic,calm-mind,future-sight,trick|synchronize||||
+
+### Note: Bronzong can have either Levitate or Heatproof, and Alakazam
+### can have either Synchronize or Inner Focus. I'm not sure how to put this in.
+
+
+
+### All Timeless, Maple, Gail, Azure Flute EDS and Developer fights are postgame.
+
+
+
+##############
+### Rivals ###
+##############
+
+
+
+### Damian
+
+--d1_e|Damian|# Telnor Town||#/leaders/insurgence-damian#@<ARTIST>@<CREDITLINK>
+eevee|5|growl,tail-whip,tackle,sand-attack|run-away||eevee||
+delta-charmander|5|scratch,growl,twister,curse|spirit-call||grass||
+delta-squirtle|5|pursuit,tackle,tail-whip,curse|shadow-call||fire||
+delta-bulbasaur|5|tackle,baby-doll-eyes,confusion,curse||water||
+
+### This fight is identical on all difficulties.
+### Note: Eevee can have either Run Away or Adaptability.
+### I'm not sure how to put this in.
+
+--d2_e|Damian|# Midna Town||#/leaders/insurgence-damian#@<ARTIST>@<CREDITLINK>
+corphish|15|leer,bubble-beam,harden,vice-grip|hyper-cutter||||
+luxio|15|tackle,leer,spark,charge|intimidate||||
+eevee|16|sand-attack,swift,baby-doll-eyes,quick-attack|adaptability||eevee||
+delta-charmeleon|16|twister,shadow-sneak,growl,confuse-ray|spirit-call||grass||
+delta-wartortle|16|bite,torment,vacuum-wave,withdraw|shadow-call||fire||
+delta-ivysaur|16|fairy-wind,charm,hypnosis,psybeam|psycho-call||water||
+
+### Notes:
+### * Corphish can have either Hyper Cutter or Shell Armor.
+### * Luxio can have either Intimidate or Rivalry
+### * Eevee can have either Run Away or Adaptability.
+### I'm not sure how to put any of this in.
+
+--d3_e|Damian|# Rezzai Cavern||#/leaders/insurgence-damian#@<ARTIST>@<CREDITLINK>
+crawdaunt|42|razor-shell,swift,taunt,swords-dance|hyper-cutter||||
+eevee|41|double-edge,charm,baton-pass,last-resort|adaptability||eevee||
+delta-charizard|41|dragon-dance,shadow-ball,dragon-breath,screech|spirit-call||grass||
+delta-blastoise|41|shadow-sneak,dark-pulse,aura-sphere,protect|shadow-call||fire||
+delta-venusaur|41|sweet-scent,calm-mind,disarming-voice,psychic|psycho-call||water||
+luxray|42|crunch,swagger,roar,thunder-fang|intimidate||||
+metang|42|agility,zen-headbutt,psychic,scary-face|clear-body||||
+shaymin|41|leech-seed,magical-leaf,sweet-scent,synthesis|natural-cure||||
+
+### Notes:
+### * Crawdaunt can have either Hyper Cutter or Shell Armor.
+### * Luxray can have either Intimidate or Rivalry
+### * Eevee can have either Run Away or Adaptability.
+### I'm not sure how to put any of this in.
+
+--d4_e|Damian|# Utira Town||#/leaders/insurgence-damian#@<ARTIST>@<CREDITLINK>
+crawdaunt|48|taunt,swords-dance,crunch,crabhammer|hyper-cutter||||
+metang|48|psychic,agility,meteor-mash,iron-defense|clear-body||||
+luxray|48|swagger,thunder-fang,crunch,roar|intimidate||||
+shaymin|48|leech-seed,natural-gift,sweet-scent,synthesis|natural-cure||||
+eevee|48|flare-blitz,ice-beam,thunderbolt,leaf-blade|adaptability|eevite|eevee||
+delta-charizard|48|dragon-breath,dragon-dance,shadow-ball,dragon-pulse|spirit-call|delta-charizardite|grass||
+delta-blastoise|48|shadow-sneak,dark-pulse,aura-sphere,iron-defense|shadow-call|delta-blastoisinite|fire||
+delta-venusaur|48|disarming-voice,psychic,moonlight,calm-mind|psycho-call|delta-venusaurite|water||
+
+### This battle is optional; Nora's third fight can be done instead.
+### Notes:
+### * Crawdaunt can have either Hyper Cutter or Shell Armor.
+### * Luxray can have either Intimidate or Rivalry
+### * Eevee can have either Run Away or Adaptability.
+### I'm not sure how to put any of this in.
+
+--d5_e|Damian|# Cortisol Road||#/leaders/insurgence-damian#@<ARTIST>@<CREDITLINK>
+deoxys-normal|79|cosmic-power,recover,psycho-boost,hyper-beam|pressure|focus-sash|||
+eevee|79|moonblast,volt-switch,psychic,scald|run-away|eevite|eevee||
+delta-charizard|79|lunar-cannon,phantom-force,dragon-rush,outrage|spirit-call|delta-charizardite|grass||
+delta-blastoise|79|aura-sphere,iron-defense,nasty-plot,focus-blast|shadow-call|delta-blastoisinite|fire||
+delta-venusaur|79|psychic,moonlight,moonblast,psycho-boost|psycho-call|delta-venusaurite|water||
+metagross|79|meteor-mash,hammer-arm,iron-defense,hyper-beam|clear-body|leftovers|||
+shaymin|80|natural-gift,energy-ball,aromatherapy,worry-seed|natural-cure|leftovers|||
+
+### This fight was previously labelled as Damian's first fight.
+### Damian's Shaymin will always be in Land Forme during the
+### night, and this should always be easier to deal with, so I used Damian's
+### night-time teams for the fifth and extra fights.
+### (Day/night teams are otherwise identical.)
+
+### Damian's extra fight (previously labelled as second) is postgame.
+
+
+### Nora
+
+--n1_e|Nora||#/leaders/insurgence-nora#@<ARTIST>@<CREDITLINK>
+sewaddle|16|bug-bite,razor-leaf,tackle,string-shot|swarm||||
+trapinch|16|bulldoze,sand-tomb,mud-slap,rock-slide|hyper-cutter||||
+zubat|16|bite,wing-attack,astonish,supersonic|inner-focus||eevee
+bayleef|16|razor-leaf,poison-powder,synthesis,growl|overgrow||grass
+quilava|16|smokescreen,leer,ember,quick-attack|blaze||fire
+totodile|16|water-gun,rage,bite,scary-face|torrent||water
+
+--n2_e|Nora||#/leaders/insurgence-nora#@<ARTIST>@<CREDITLINK>
+honedge|26|retaliate,shadow-sneak,aerial-ace,autotomize|no-guard||||
+floette|26|grassy-terrain,magical-leaf,razor-leaf,wish|flower-veil||||
+trapinch|26|rock-slide,dig,crunch,earth-power|hyper-cutter||eevee
+bayleef|26|reflect,natural-gift,magical-leaf,synthesis|overgrow||grass
+quilava|26|defense-curl,ember,quick-attack,flame-wheel|blaze||fire
+croconaw|26|flail,bite,scary-face,ice-fang|torrent||water
+celebi|26|safeguard,recover,heal-bell,magical-leaf|natural-cure||||
+
+--n3_e|Nora||#/leaders/insurgence-nora#@<ARTIST>@<CREDITLINK>
+doublade|48|iron-defense,night-slash,power-trick,iron-head|no-guard||||
+floette|48|petal-blizzard,aromatherapy,misty-terrain,moonblast|flower-veil||||
+leavanny|48|leaf-blade,x-scissor,entrainment,swords-dance|swarm||||
+celebi|48|magical-leaf,ancient-power,baton-pass,natural-gift|natural-cure||||
+flygon|48|hyper-beam,dragon-claw,dragon-rush,uproar|levitate|flygonite|||
+
+### This battle is optional; Damian's fourth fight can be done instead.
+
+### Nora's fourth and fifth fights are postgame.
