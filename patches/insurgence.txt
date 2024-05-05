@@ -5,20 +5,40 @@
 ###   * Find out what Spicy Curry actually does.
 ### Note: Mega Shadow Mewtwo isn't listed as it uses the existing Mewtwonite X.
 
+
+
 --move
-drakon-voice|dragon|105|No effect|special
+
+achilles-heel|normal|45|The user identifies a weakness in its target, dealing Super Effective damage to all that are not immune to this move.|physical
 ancient-roar|rock|80|No effect|special
-livewire|electric||Causes Pokemon that are switched in to be immediately Paralyzed.|status
-dark-matter|dark|150|The unknown forces of the world are unleashed. The user must recharge next turn.|special
-wildfire|fire||Burns the foe. If it is a Grass-type Pokemon, burns all Pokemon in their party weak to fire.|status
-lunar-cannon|dark|105|A two-turn attack. The user gathers darkness, then blasts a bundled beam on the second turn.|special
+aura-blast|fighting|50|Charges Aura Spheres during Burst Mode and barrages the target, dealing more damage on the last hit.|special
+corrode|poison|70|The user launches a corrosive acid at the opponent that is Super Effective against Steel-types.|special
 crystal-rush|crystal|45|The user turns to solid crystal, hitting first.|physical
-new-moon|dark||The sky darkens to night, increasing the power of Dark- and Ghost-type moves.|status
+dark-matter|dark|150|The unknown forces of the world are unleashed. The user must recharge next turn.|special
+dark-nova|dark|135|Uses Synergy Burst to unleash dark energy in two waves. Damage is done using the higher attack stat.|special
 draco-jet|dragon|40|A draconic fury in which the user always attacks first.|physical
+dragonify|dragon||Reptillian blood taints the foe, turning them into the Dragon-type.|status
+drakon-voice|dragon|105|No effect|special
+dynamic-fury|fighting|50|Uses Synergy Burst to pummel the target up to 5 times, losing Synergy Power with each hit.|physical
+fairy-tempest|fairy|180|Uses Synergy Burst to transport the target(s) into space and attacks them with a blast of energy.|special
+jet-stream|dragon||The user creates a stream of supercharged air that allows their team to move first next round.|status
+livewire|electric||Causes Pokemon that are switched in to be immediately Paralyzed.|status
+lunar-cannon|dark|105|A two-turn attack. The user gathers darkness, then blasts a bundled beam on the second turn.|special
+medusa-ray|rock||The user glares and petrifies the foe, making them Rock-type.|status
+morph|normal||If a delta version of the opponent exists, the user morphs into that. Otherwise, Transforms.|status
+nanorepair|steel||The user activates a nanobotic repair system that heals and boosts Defense.|status
+new-moon|dark||The sky darkens to night, increasing the power of Dark- and Ghost-type moves.|status
+permafrost|ice||Frost covers the ground around the foe, randomly freezing foes who switch in.|status
+retrograde|normal||The target, if they are a Mega Pokémon, is reverted to its basic form.|status
+spirit-away|fairy||The target is whisked away, returning on the next turn. The target cannot attack during this time.|physical
+wildfire|fire||Burns the foe. If it is a Grass-type Pokemon, burns all Pokemon in their party weak to fire.|status
+wormhole|psychic||The user rips a hole in space- always striking first.|special
+zombie-strike|ghost|90|No effect|physical
 
 
 
 --ability
+
 noctem|The Pokémon summons darkness and blots out the sky as it enters the battle.
 intoxicate|Intoxicate causes all Normal-type moves used by the Pokémon to become Poison-type and receive a 30% power boost.
 ice-cleats|During hail the Speed stat of Pokémon with this Ability is doubled. A Pokémon with this Ability will take no damage from hail if it otherwise would.
@@ -107,6 +127,7 @@ delta-lucarionite||Allows Delta Lucario to Mega Evolve into Mega Delta Lucario w
 
 
 --fakemon
+
 45,49,49,65,65,45|Delta Bulbasaur|delta-bulbasaur|fairy,psychic|/unown|delta-bulbasaur>delta-ivysaur|EchoTheThird# /insurgence/delta-bulbasaur
 60,62,63,80,80,60|Delta Ivysaur|delta-ivysaur|fairy,psychic|/unown|delta-bulbasaur>delta-venusaur|EchoTheThird# /insurgence/delta-ivysaur
 80,82,83,100,100,80|Delta Venusaur|delta-venusaur|fairy,psychic|/unown|delta-bulbasaur|EchoTheThird# /insurgence/delta-venusaur
