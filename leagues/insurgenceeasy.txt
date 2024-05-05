@@ -1,7 +1,10 @@
 ### A huge thank you to domtronn for getting and formatting most of this
 ### information - I've just tried to compile it in a way that I feel is more
-### understandable (separate games for Easy/Medium/Hard difficulties and
-### temporarily removed info for postgame fights)
+### understandable.
+### * Games separated into Easy/Medium/Hard difficulties for now
+### * Postgame fights' info temporarily removed - I would like to put this back
+###   somewhere, but I don't think postgame content is generally relevant to
+###   Nuzlocke runs.
 
 ### DEV ###
 # https://wiki.p-insurgence.com/Orion

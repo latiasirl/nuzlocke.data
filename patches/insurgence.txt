@@ -1,4 +1,7 @@
 ### DEV ###
+### Mega Stones are in their wiki order: https://wiki.p-insurgence.com/Mega_Evolution#Unofficial
+### Todo: Add sprites for more items. I believe all new item sprites are custom.
+### Mega Shadow Mewtwo isn't listed as it uses the existing Mewtwonite X.
 
 --move
 drakon-voice|dragon|105|No effect|special
@@ -11,6 +14,8 @@ crystal-rush|crystal|45|The user turns to solid crystal, hitting first.|physical
 new-moon|dark||The sky darkens to night, increasing the power of Dark- and Ghost-type moves.|status
 draco-jet|dragon|40|A draconic fury in which the user always attacks first.|physical
 
+
+
 --ability
 noctem|The Pokémon summons darkness and blots out the sky as it enters the battle.
 intoxicate|Intoxicate causes all Normal-type moves used by the Pokémon to become Poison-type and receive a 30% power boost.
@@ -21,39 +26,74 @@ psycho-call|When a Pokémon with Psycho Call uses a Psychic-type move, the power
 shadow-dance|During intense darkness, the Speed stat of Pokémon with this Ability is doubled.
 absolution|During intense darkness, Absolution increases the Pokémon's Special Attack by 50 percent, but the Pokémon loses 1/8 of its maximum HP at the end of each turn.
 
+
+
 --item
 dragon-fang||Doubles Delta Clamperl's Attack  
 dragon-scale||Doubles Delta Clamperl's Defense
-metal-powder||Doubles Detla Ditto's Defense
-quick-powder||Doubles Detla Ditto's Speed
+metal-powder||Doubles Delta Ditto's Defense
+quick-powder||Doubles Delta Ditto's Speed
 dark-rock|heat-rock|Lengthens duration of New Moon and Noctem from 5 turns to 8 turns when used by the holder.
 d-volcarona-armor|assault-vest|Increases Delta Volcarona's base Defense stat from 65 to 85 and base Special Defense stat from 105 to 137 when held.
 zekrom-armor|assault-vest|Increases Zekrom's base Defense stat from 120 to 156 and base Special Defense stat from 100 to 130 when held.
 tyranitar-armor|assault-vest|Increases Tyranitar's base Defense stat from 110 to 143 and base Special Defense stat from 100 to 130 when held.
 
+poliwrathite|absolite|Allows Poliwrath to Mega Evolve into Mega Poliwrath when held during battle.
+marowite||Allows Marowak to Mega Evolve into Mega Marowak when held during battle.
+eevite|gyaradosite|Allows Eevee to Mega Evolve into Mega Eevee when held during battle.
+meganiumite||Allows Meganium to Mega Evolve into Mega Meganium when held during battle.
+typhlosionite|lopunnite|Allows Typhlosion to Mega Evolve into Mega Typhlosion when held during battle.
+feraligatite||Allows Feraligatr to Mega Evolve into Mega Feraligatr when held during battle.
+sudowoodite||Allows Sudowoodo to Mega Evolve into Mega Sudowoodo when held during battle.
+politoedite|abomasite|Allows Politoed to Mega Evolve into Mega Politoed when held during battle.
+sunflorite|sablenite|Allows Sunflora to Mega Evolve into Mega Sunflora when held during battle.
+etigirafarigite||Allows Girafarig to Mega Evolve into Mega Girafarig when held during battle.
+steelixite-fire||Allows Steelix to Mega Evolve into Mega Steelix (Fire) when held during battle.
+magcargonite|lucarionite|Allows Magcargo to Mega Evolve into Mega Magcargo when held during battle.
+donphanite||Allows Donphan to Mega Evolve into Mega Donphan when held during battle.
+miltankite|kangaskhanite|Allows Miltank to Mega Evolve into Mega Miltank when held during battle.
+shiftrite||Allows Shiftry to Mega Evolve into Mega Shiftry when held during battle.
+flygonite|sceptilite|Allows Flygon to Mega Evolve into Mega Flygon when held during battle.
+cacturnite|sceptilite|Allows Cacturne to Mega Evolve into Mega Cacturne when held during battle.
+crawdite|salamencite|Allows Crawdaunt to Mega Evolve into Mega Crawdaunt when held during battle.
+milotite||Allows Milotic to Mega Evolve into Mega Milotic when held during battle.
+jirachite||Allows Jirachi to Mega Evolve into Mega Jirachi when held during battle.
+chatotite||Allows Chatot to Mega Evolve into Mega Chatot when held during battle.
+spiritombite|mewtwonite-x|Allows Spiritomb to Mega Evolve into Mega Spiritomb when held during battle.
+zebstrikite|gardevoirite|Allows Zebstrika to Mega Evolve into Mega Zebstrika when held during battle.
+zoronite|scizorite|Allows Zoroark to Mega Evolve into Mega Zoroark when held during battle.
+gothitite|aerodactylite|Allows Gothitelle to Mega Evolve into Mega Gothitelle when held during battle.
+reuniclite|galladite|Allows Reuniculus to Mega Evolve into Mega Reuniculus when held during battle.
+cryogonite|steelixite|Allows Cryogonal to Mega Evolve into Mega Cryogonal when held during battle.
+haxorite||Allows Haxorus to Mega Evolve into Mega Haxorus when held during battle.
+stunfiskite|pinsirite|Allows Stunfisk to Mega Evolve into Mega Stunfisk when held during battle.
+bisharpite||Allows Bisharp to Mega Evolve into Mega Bisharp when held during battle.
+hydreigonite|gengarite|Allows Hydreigon to Mega Evolve into Mega Hydreigon when held during battle.
+delta-blastoisinite|scizorite|Allows Delta Blastoise to Mega Evolve into Mega Delta Blastoise when held during battle.
+delta-charizardite|mewtwonite-y|Allows Delta Charizard to Mega Evolve into Mega Delta Charizard when held during battle.
+delta-venusaurite|venasaurite|Allows Delta Venusaur to Mega Evolve into Mega Delta Venusaur when held during battle.
+delta-bisharpite||Allows Delta Bisharp to Mega Evolve into Mega Delta Bisharp when held during battle.
+delta-gardevoirite||Allows Delta Gardevoir to Mega Evolve into Mega Delta Gardevoir when held during battle.
+delta-galladite||Allows Delta Gallade to Mega Evolve into Mega Delta Gallade when held during battle.
+delta-sunflorite||Allows Delta Sunflora to Mega Evolve into Mega Delta Sunflora when held during battle.
+delta-scizorite||Allows Delta Scizor to Mega Evolve into Mega Delta Scizor when held during battle.
+delta-glalitite||Allows Delta Glalie to Mega Evolve into Mega Delta Glalie when held during battle.
+delta-froslassite||Allows Delta Froslass to Mega Evolve into Mega Delta Froslass when held during battle.
+delta-typhlosionite||Allows Delta Typhlosion to Mega Evolve into Mega Delta Typhlosion when held during battle.
+delta-pidgeotite||Allows Delta Pidgeot to Mega Evolve into Mega Delta Pidgeot when held during battle.
+delta-etigirafarigite||Allows Delta Girafarig to Mega Evolve into Mega Delta Girafarig when held during battle.
+delta-sablenite||Allows Delta Sableye to Mega Evolve into Mega Delta Sableye when held during battle.
+delta-mawilite||Allows Delta Mawile to Mega Evolve into Mega Delta Mawile when held during battle.
+delta-medichamite||Allows Delta Medicham to Mega Evolve into Mega Delta Medicham when held during battle.
+delta-cameruptite||Allows Delta Camerupt to Mega Evolve into Mega Delta Camerupt when held during battle.
+delta-milotite||Allows Delta Milotic to Mega Evolve into Mega Delta Milotic when held during battle.
+delta-metagrossite-spider||Allows Delta Metagross (Spider) to Mega Evolve into Mega Delta Metagross (Spider) when held during battle.
+delta-metagrossite-ruin||Allows Delta Metagross (Ruin) to Mega Evolve into Mega Delta Metagross (Ruin) when held during battle.
 crystal-fragment|adamant-orb|Allows Delta Metagross (Ruin) to Crystallize into Crystal Delta Metagross (Ruin) when held during battle.
+delta-lopunnite||Allows Delta Lopunny to Mega Evolve into Mega Delta Lopunny when held during battle.
+delta-lucarionite||Allows Delta Lucario to Mega Evolve into Mega Delta Lucario when held during battle.
 
-cacturnite|sceptilite|Allows Cacturne to Mega Evolve into Mega Cacturne.
-crawdite|salamencite|Allows Crawdaunt to Mega Evolve into Mega Crawdaunt.
-cryogonite|steelixite|Allows Cryogonal to Mega Evolve into Mega Cryogonal.
-delta-blastoisinite|scizorite|Allows Delta Blastoise to Mega Evolve into Mega Delta Blastoise.
-delta-charizardite|mewtwonite-y|Allows Delta Charizard to Mega Evolve into Mega Delta Charizard.
-delta-venusaurite|venasaurite|Allows Delta Venusaur to Mega Evolve into Mega Delta Venusaur.
-eevite|gyaradosite|Allows Eevee to Mega Evolve into Mega Eevee.
-flygonite|sceptilite|Allows Flygon to Mega Evolve into Mega Flygon.
-gothitite|aerodactylite|Allows Gothitelle to Mega Evolve into Mega Gothitelle.
-hydreigonite|gengarite|Allows Hydreigon to Mega Evolve into Mega Hydreigon.
-magcargonite|lucarionite|Allows Magcargo to Mega Evolve into Mega Magcargo.
-miltankite|kangaskhanite|Allows Miltank to Mega Evolve into Mega Miltank.
-politoedite|abomasite|Allows Politoed to Mega Evolve into Mega Politoed.
-poliwrathite|absolite|Allows Poliwrath to Mega Evolve into Mega Poliwrath.
-reuniclite|galladite|Allows Reuniculus to Mega Evolve into Mega Reuniculus.
-spiritombite|mewtwonite-x|Allows Spiritomb to Mega Evolve into Mega Spiritomb.
-stunfiskite|pinsirite|Allows Stunfisk to Mega Evolve into Mega Stunfisk.
-sunflorite|sablenite|Allows Sunflora to Mega Evolve into Mega Sunflora.
-typhlosionite|lopunnite|Allows Typhlosion to Mega Evolve into Mega Typhlosion.
-zebstrikite|gardevoirite|Allows Zebstrika to Mega Evolve into Mega Zebstrika.
-zoronite|scizorite|Allows Zoroark to Mega Evolve into Mega Zoroark.
+
 
 --fakemon
 45,49,49,65,65,45|Delta Bulbasaur|delta-bulbasaur|fairy,psychic|/unown|delta-bulbasaur>delta-ivysaur|EchoTheThird# /insurgence/delta-bulbasaur
