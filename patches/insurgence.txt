@@ -1,7 +1,9 @@
 ### DEV ###
 ### Mega Stones are in their wiki order: https://wiki.p-insurgence.com/Mega_Evolution#Unofficial
-### Todo: Add sprites for more items. I believe all new item sprites are custom.
-### Mega Shadow Mewtwo isn't listed as it uses the existing Mewtwonite X.
+### Todo:
+###   * Add sprites for more items. I believe all new item sprites are custom.
+###   * Find out what Spicy Curry actually does.
+### Note: Mega Shadow Mewtwo isn't listed as it uses the existing Mewtwonite X.
 
 --move
 drakon-voice|dragon|105|No effect|special
@@ -33,7 +35,12 @@ dragon-fang||Doubles Delta Clamperl's Attack
 dragon-scale||Doubles Delta Clamperl's Defense
 metal-powder||Doubles Delta Ditto's Defense
 quick-powder||Doubles Delta Ditto's Speed
-dark-rock|heat-rock|Lengthens duration of New Moon and Noctem from 5 turns to 8 turns when used by the holder.
+trick-rock||Lengthens the duration of Trick Room from 5 turns to 8 turns when used by the holder.
+dark-rock|heat-rock|Lengthens the duration of New Moon and Noctem from 5 turns to 8 turns when used by the holder.
+nocturne-incense||If held by a Pokémon, it can flee and Teleport successfully, regardless of trapping moves and Abilities.
+spicy-curry||Burns non-Fire-types but increases the strength of their Fire-type moves.
+
+crystal-piece||Changes the form of Arceus, Giratina, and Regigigas.
 
 tyranitar-armor|assault-vest|Increases Tyranitar's base Defense stat from 110 to 143 and base Special Defense stat from 100 to 130 when held.
 flygon-armor||Increases Flygon's base Defense stat from 80 to 104 and base Special Defense stat from 80 to 104 when held.
