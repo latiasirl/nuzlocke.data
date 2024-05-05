@@ -22,7 +22,7 @@ drakon-voice|dragon|105|No effect|special
 dynamic-fury|fighting|50|Uses Synergy Burst to pummel the target up to 5 times, losing Synergy Power with each hit.|physical
 fairy-tempest|fairy|180|Uses Synergy Burst to transport the target(s) into space and attacks them with a blast of energy.|special
 jet-stream|dragon||The user creates a stream of supercharged air that allows their team to move first next round.|status
-livewire|electric||Causes Pokemon that are switched in to be immediately Paralyzed.|status
+livewire|electric||Causes Pokémon that are switched in to be immediately Paralyzed.|status
 lunar-cannon|dark|105|A two-turn attack. The user gathers darkness, then blasts a bundled beam on the second turn.|special
 medusa-ray|rock||The user glares and petrifies the foe, making them Rock-type.|status
 morph|normal||If a delta version of the opponent exists, the user morphs into that. Otherwise, Transforms.|status
@@ -31,7 +31,7 @@ new-moon|dark||The sky darkens to night, increasing the power of Dark- and Ghost
 permafrost|ice||Frost covers the ground around the foe, randomly freezing foes who switch in.|status
 retrograde|normal||The target, if they are a Mega Pokémon, is reverted to its basic form.|status
 spirit-away|fairy||The target is whisked away, returning on the next turn. The target cannot attack during this time.|physical
-wildfire|fire||Burns the foe. If it is a Grass-type Pokemon, burns all Pokemon in their party weak to fire.|status
+wildfire|fire||Burns the foe. If it is a Grass-type Pokémon, burns all Pokémon in their party weak to fire.|status
 wormhole|psychic||The user rips a hole in space- always striking first.|special
 zombie-strike|ghost|90|No effect|physical
 
@@ -39,15 +39,47 @@ zombie-strike|ghost|90|No effect|physical
 
 --ability
 
-noctem|The Pokémon summons darkness and blots out the sky as it enters the battle.
-intoxicate|Intoxicate causes all Normal-type moves used by the Pokémon to become Poison-type and receive a 30% power boost.
-ice-cleats|During hail the Speed stat of Pokémon with this Ability is doubled. A Pokémon with this Ability will take no damage from hail if it otherwise would.
-spirit-call|When a Pokémon with Spirit Call uses a Ghost-type move, the power will increase by 1.5× if the user has less than or equal to ⅓ of its maximum HP remaining.
-shadow-call|When a Pokémon with Shadow Call uses a Dark-type move, the power will increase by 1.5× if the user has less than or equal to ⅓ of its maximum HP remaining.
-psycho-call|When a Pokémon with Psycho Call uses a Psychic-type move, the power will increase by 1.5× if the user has less than or equal to ⅓ of its maximum HP remaining.
+absolution|Boosts the Special Attack stat by 50% when the New Moon is active, at the cost of 1/8 maximum HP per turn.
+amplifier|Boosts sound-based moves by 1.25x.
+ancient-presence|All standard damaging moves gain the same-type attack bonus and ignore standard type-effectiveness. Overrides Omnitype.
+athenian|Doubles the Special Attack stat of the Pokémon with this Ability.
+blaze-boost|Immediately before the user uses a Fire-type attack, its Attack, Special Attack, and Speed are increased by 1 stage. Changes the form of Delta Emolga.
+castle-moat|When hit by an Water-type move, the user's Special Defense is increased by one stage and the move will have no effect.
+chlorofury|When entering the battle, the user's Speed and Special Attack are raised by one stage for each fainted Pokémon on the user's team. These stat changes are removed after two turns. 
+ethereal-shroud|Grants the user Ghost-type associated immunities and resistances.
+event-horizon|Any Pokémon that makes contact with this one can't escape.
+foundry|Rock-type moves used by the Pokémon become Steel-type and receive a 30% damage boost. Stealth Rock becomes Fire-type and stacks with Rock-type Stealth Rock.
+glitch|When hit by a contact move, the attacker faints.
+heliophobia|At the end of each turn, lose 1/8 maximum HP when in harsh sunlight and regain 1/8 maximum HP when in intense darkness.
+hubris|After making another Pokémon faint, the user's Special Attack rises by one stage. 
+ice-cleats|During hail, the Speed stat of Pokémon with this Ability is doubled. A Pokémon with this Ability will take no damage from hail if it otherwise would.
+intoxicate|Normal-type moves used by the Pokémon become Poison-type and receive a 30% power boost.
+irrelephant|Ignores type-based immunities.
+lernean|The user grows more heads as it loses HP. Most moves are converted into multi-hit moves based on the number of heads.
+noctem|The Pokémon summons intense darkness as it enters the battle.
+omnitype|All moves used against the user factor in the weaknesses and resistances of every type. The user has all type-based immunities.
+pendulum|Boosts the power of moves used repeatedly by 20% for every consecutive use, up to 100%.
+periodic-orbit|Delayed-effect moves activate, orbit, and activate again.
+phototroph|At the end of each turn, gain 1/16 maximum HP. Doubled in harsh sunlight, stopped in heavy rain or intense darkness.
+prism-guard|When hit by a non-contact move, the attacker takes damage equal to 1/8 of their HP.
+protean-maxima|The Pokémon changes form, changes stats and gains an ability based on the type of move it uses.
+psycho-call|The user's Psychic-type moves increase in power by 1.5x if the user has less than or equal to 1/3 of its maximum HP remaining.
+regurgitation|After every successful attack or targetable status move by the user, the user's minion does damage equal to 1/6 of the target's maximum HP multiplied by the Regurgitation type's effectiveness.
+shadow-call|The user's Dark-type moves increase in power by 1.5x if the user has less than or equal to 1/3 of its maximum HP remaining.
 shadow-dance|During intense darkness, the Speed stat of Pokémon with this Ability is doubled.
-absolution|During intense darkness, Absolution increases the Pokémon's Special Attack by 50 percent, but the Pokémon loses 1/8 of its maximum HP at the end of each turn.
-
+shadow-synergy|Boosts the power of the user's Dark-type moves by 50%.
+sleet|The Pokémon summons hail as it enters the battle. While the user is in the battle, hail damages non-immune Pokémon for 20% of their maximum HP at the end of each turn.
+spectral-jaws|All biting moves used by the Pokémon are reclassified as Special moves and receive a 30% boost. 
+speed-swap|The Pokémon summons Trick Room as it enters the battle. If Trick Room is currently active as the Pokémon enters the battle, Trick Room instead ends immediately.
+spirit-call|The user's Ghost-type moves increase in power by 1.5x if the user has less than or equal to 1/3 of its maximum HP remaining.
+supercell|During intense darkness or heavy rain, the user's Special Attack is increased by 50%. Changes the form of Delta Typhlosion.
+synthetic-alloy|Pokémon with Synthetic Alloy take neutral damage from Fire-type attacks, regardless of weaknesses.
+unleafed|When entering the battle, the user's Attack, Defense, Special Attack, Special Defense and Speed are raised by one stage. These stat changes are removed after turns equal to one plus the number of fainted Pokémon on the user's team when the ability was activated.
+vampiric|When using a contact move, the user gains HP equal to 25% of the dealt damage. This gain is unaffected by Big Root. This gain is affected by Heal Block.
+vaporization|All damage-dealing Water-type moves and targetable Water-type status moves fail when used. All Water-type Pokémon take 1/8 of their maximum HP as damage at the end of every turn.
+venomous|The user always inflicts toxic poison where it would inflict regular poison.
+wind-force|When the user is hit by a Flying-type move, its Speed is increased by one stage and the move has no effect on that Pokémon.
+winter-joy|During November-February, the user's Attack and Special Attack are increased by 40%. During May-August, the user's Attack and Special Attack are decreased by 30%.
 
 
 --item
