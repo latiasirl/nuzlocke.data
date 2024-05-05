@@ -1,66 +1,51 @@
 ### DEV ###
 
---???|dark1_h|evil-team|Persephone
---???|dark1_h|evil-team|Persephone
---???|dark1_h|evil-team|Persephone
---???|dark2_h|evil-team|Persephone
---???|dark2_h|evil-team|Persephone
---???|dark2_h|evil-team|Persephone
---???|dark3_h|evil-team|Persephone
---???|dark3_h|evil-team|Persephone
---???|dark3_h|evil-team|Persephone
---???|inf2_h|evil-team|Zenith# Infernal Base
---???|abys1_h|evil-team|Audrey|#Whirl Islands
---???|perf1_h|evil-team|Taen|#Perfection Base
---???|perf3_h|evil-team|Taen|#Dragon Ruins
---???|perf4_h|evil-team|Taen|#Perfection Base
---???|perf5_h|evil-team|Taen|# Alpha Templte
---???|perf6_h|evil-team|Taen|#Dragon Ruins
---???|j1_h|mini-boss|Jaern|
---???|j2_h|mini-boss|Jaern|
---???|5_h|gym-leader|Anastasia|steel/electric
---???|6_h|gym-leader|Diana|psychic/ghost
-
---???|8_ha|gym-leader|Adam|dark
---???|8_hb|gym-leader|Adam|dark
---???|e1_h|elite-four|Kayla
---???|e2_h|elite-four|Eduard|
---???|e3_h|elite-four|Yuki|
---???|e4_h|elite-four|London|
---???|ec_h|elite-four|Reukra
---???|mb1_h|mini-bos|Gail#Dragon Ruins
---???|r1_h|rival|Damian
---???|r2_h|rival|Damian
---???|n1_h|rival|Nora
---???|n2_h|rival|Nora
---???|n3_h|rival|Nora
---???|n4_h|rival|Nora
 Starter|eevee,delta-bulbasaur,delta-charmander,delta-squirtle
+--Telnor Town|d1_e|rival|Damian
 Shade Forest|caterpie,pikachu,weedle,nidoran-f,nidoran-m,poliwag,gastly,magikarp,gyarados,remoraid,octillery,mantyke,patrat,tympole,seismitoad
 Telnor Cave|diglett,geodude,onix,cubone,magikarp,gyarados,wooper,qwilfish,nosepass,baltoy,shellos,roggenrola,tympole,seismitoad,delta-diglett
 Midna Town|gastly,corsola,elekid,carvanha,sharpedo,buizel,finneon,lumineon,tympole,seismitoad
+--Midna Town|d2_e|rival|Damian
+--Midna Town|n1_e|rival|Nora
 Midna Garden|tentacool,shellder,cloyster,exeggcute,magikarp,gyarados,dratini,surskit,piplup,stunky,heatmor,durant,cobalion
 Midna Mine|zubat,poliwag,geodude,seel,goldeen,seaking,shuckle,phanpy,nosepass,clamperl,huntail,gorebyss,luvdisc,roggenrola,woobat,drilbur,dwebble,carbink
 Ancient Ruins|sandshrew,tentacool,geodude,magikarp,gyarados,remoraid,tyrogue,riolu,mantyke,alomomola,delta-geodude
+--Ancient Ruins|abym_e|mini-boss|Abyssal Cultist
 Suntouched City|machop,krabby,zapdos,natu,corsola,remoraid,octillery,corphish,delta-aipom
---Suntouched Gym|1_h|gym-leader|Orion|fire|
+--Suntouched Gym|1_e|gym-leader|Orion
+
 Metchi Town|tentacool,dewgong,krabby,staryu,marill,basculin,alomomola,delta-ditto
+--Metchi Town|n2_e|rival|nora
 Vipik City|togepi,sneasel,delta-wooper
---Vipik Gym|2_h|gym-leader|Xavier|bug
+--Vipik Gym|2_e|gym-leader|Xavier
+
 Samsara Cave|machoke,geodude,graveler,marowak,gyarados,quagsire,qwilfish,shuckle,pupitar,nosepass,lunatone,solrock,gastrodon,riolu,roggenrola,boldore,palpitoad,seismitoad,dwebble,meloetta,carbink,delta-pidgey
 Rezzai Desert|vibrava,hippopotas,krokorok,landorus
+Rezzai Cavern|dugtrio,geodude,graveler,onix,marowak,gyarados,quagsire,qwilfish,shuckle,nosepass,regirock,gastrodon,roggenrola,boldore,palpitoad,seismitoad,dwebble,axew,carbink
+--Rezzai Cavern|d3_e|rival|Damian
 Helios City|smeargle,barboach,wynaut,bonsly,delta-lotad
+--Perfection Base|perf1_e|evil-team|Taen
+--Jade Tower|3_e|gym-leader|East
+
+--Jade Tower|j1_e|evil-team|Jaern
 Cave of Steam|tentacruel,geodude,marowak,rhyhorn,starmie,magikarp,gyarados,lapras,croconaw,lanturn,shuckle,slugma,magcargo,remoraid,octillery,swampert,nosepass,torkoal,roggenrola,gigalith,dwebble,druddigon,heatmor,carbink,volcanion
 Utira Town|slugma,corsola,remoraid,octillery,barboach,whiscash,corphish,gastrodon,finneon,lumineon,drilbur,swanna
+--Utira Town|d4_e|rival|Damian
+--Utira Town|n3_e|rival|Nora
 Utira Library|gengar,banette,dusclops,mismagius,litwick,delta-budew
+--Utira Library|ancm_e|mini-boss|Ancient Oracle
 Miara Town|machoke,tentacruel,haunter,lanturn,sunkern,slugma,corsola,remoraid,octillery,mantine,wailmer,barboach,whiscash,tropius,finneon,lumineon,delta-koffing
 Whirl Islands|tentacruel,geodude,golem,kingler,magikarp,gyarados,lanturn,qwilfish,shuckle,lugia,wingull,nosepass,lairon,sharpedo,wailmer,crawdaunt,feebas,glalie,sealeo,huntail,gorebyss,relicanth,roggenrola,gigalith,dwebble,swanna,cryogonal,carbink,delta-clamperl
+--Whirl Islands|abys1_e|evil-team|Audrey
 Sonata City|tentacruel,magikarp,gyarados,cyndaquil,lanturn,qwilfish,wingull,sharpedo,feebas,huntail,gorebyss,swanna
+--Sonata Gym|4_e|gym-leader|Harmony
+
 Sonata Hills|tentacruel,magikarp,gyarados,lanturn,qwilfish,wingull,sharpedo,wailmer,feebas,huntail,gorebyss,swanna,delta-litwick
 Kepler City|tentacruel,magikarp,gyarados,lanturn,qwilfish,wingull,sharpedo,wailmer,feebas,huntail,gorebyss,beldum,swanna
---Abyssal Base|abys2_h|evil-team|Audrey|#Abyssal Base
---Kepler Gym|3_h|gym-leader|East|flying
---Kepler Lab|perf2_h|evil-team|Taen|
+--Abyssal Base|abys2_e|evil-team|Audrey
+--Kepler Gym|5_e|gym-leader|Anastasia
+
+--Kepler Lab|perf2_e|evil-team|Taen
 Route 11|tentacruel,scyther,magikarp,gyarados,lanturn,qwilfish,miltank,sceptile,wingull,sharpedo,wailmer,feebas,tropius,wynaut,huntail,gorebyss,yanmega,swanna,klink
 Nasca Town|bulbasaur,charmander,squirtle,tentacruel,cloyster,magikarp,gyarados,lanturn,sudowoodo,qwilfish,shuckle,kingdra,wingull,sharpedo,wailmer,lunatone,solrock,feebas,huntail,gorebyss,relicanth,rampardos,crustle,swanna,carbink
 Nasca Cave|tentacruel,magikarp,gyarados,lanturn,sudowoodo,qwilfish,shuckle,wingull,sharpedo,wailmer,lunatone,solrock,feebas,huntail,gorebyss,rampardos,crustle,swanna,carbink
@@ -68,20 +53,47 @@ Safari Zone|sandslash,dugtrio,kingler,marowak,magikarp,gyarados,flareon,omastar,
 Murk Forest|beedrill,butterfree,vileplume,venomoth,tentacruel,magikarp,gyarados,ariados,lanturn,qwilfish,wingull,sableye,volbeat,illumise,sharpedo,wailmer,feebas,absol,huntail,gorebyss,chimchar,honchkrow,scraggy,swanna,joltik,keldeo,froakie,delta-scraggy,delta-shinx,delta-metang-spider
 Hekate Town|tentacruel,haunter,magikarp,gyarados,lanturn,qwilfish,wingull,sharpedo,wailmer,feebas,huntail,gorebyss,munchlax,cresselia,swanna
 Fiery Caverns|dugtrio,tentacruel,magmar,magikarp,gyarados,lanturn,qwilfish,magcargo,wingull,sharpedo,wailmer,camerupt,torkoal,feebas,huntail,gorebyss,simisear,darmanitan,swanna,delta-snorunt,heatran
---Fiery Caverns|inf1_h|evil-team|Zenith|# Fiery Caverns
+--Fiery Caverns|inf1_e|evil-team|Zenith
 Route 12|tentacruel,hitmonlee,hitmonchan,magikarp,gyarados,lanturn,qwilfish,hitmontop,wingull,vigoroth,sharpedo,wailmer,spinda,cacturne,feebas,huntail,gorebyss,tangrowth,cresselia,stoutland,swanna,florges
 Selene City|tentacruel,magikarp,gyarados,lanturn,qwilfish,pupitar,wingull,sharpedo,wailmer,feebas,huntail,gorebyss,cresselia,manaphy,swanna,delta-liepard
+--Selene City|dark1_e|evil-team|Persephone
 Mysterious Hideaway|jumpluff,sigilyph,vivillon,florges,noivern
 Ancient Tower|golbat,ho-oh,mawile,claydol,banette,lucario,sigilyph,fraxure,mienfoo,delta-noibat
---Selene Gym|4_h|gym-leader|Harmony|fairy
+--Selene Gym|6_e|gym-leader|Diana
+
 Route 13|parasect,tentacruel,magikarp,gyarados,lanturn,flaaffy,bellossom,qwilfish,linoone,dustox,wingull,sharpedo,wailmer,feebas,huntail,gorebyss,cresselia,swanna,sawsbuck
 Dragon Ruins|charizard,magikarp,gyarados,feraligatr,chinchou,lanturn,qwilfish,corsola,sceptile,cradily,feebas,huntail,gorebyss,cresselia,swanna,golurk,reshiram,zekrom,zygarde,delta-bergmite
+--Dragon Ruins|perf3_e|evil-team|Taen
 Route 14|bulbasaur,hypno,horsea,seaking,lanturn,girafarig,sneasel,octillery,plusle,minun,sharpedo,wailmer,huntail,gorebyss,luvdisc,vespiquen,pachirisu,finneon,mantyke,cresselia,dewott,simipour,tympole,basculin,scraggy,swanna,jellicent,meowstic,barbaracle,dedenne
 Oranos Town|dewgong,horsea,seadra,magikarp,gyarados,dratini,dragonair,corsola,sharpedo,barboach,floatzel,gible,cresselia,swanna,binacle
+--Oranos Town|medm_e|mini-boss|Medium A. Williams
 Route 15|fearow,poliwag,seaking,staryu,gyarados,shuckle,corsola,octillery,manectric,sharpedo,zangoose,lunatone,solrock,corphish,crawdaunt,cradily,armaldo,absol,empoleon,togekiss,gigalith,darumaka,carracosta,zorua,swanna,alomomola,ferroseed,ferrothorn,druddigon,honedge,clawitzer,noibat,noivern
 Satellite Corps|genesect,delta-cyndaquil
 Amphitrite City|kingler,seadra,dratini,octillery,sharpedo,wailord,clamperl,huntail,relicanth,empoleon,budew,lumineon,palpitoad,carracosta,swanna,barbaracle,noibat,delta-shuckle
---Amphitrite|7_h|gym-leader|Calreath|water|
+--Amphitrite Gym|7_e|gym-leader|Calreath
+
+
+
+--Perfection Base|perf4_e|evil-team|Taen
+--Infernal Base|inf2_e|evil-team|Zenith
+--Prion Town|dark2_e|evil-team|Persephone
+--Cortisol Road|d5_e|rival|Damian
+--Erebus Gym|8_e|gym-leader|Adam
+
+
+
+--Crystal Caves|j2_e|evil-team|Jaern
+--Throne of the Hegemon|nyx_e|evil-team|Nyx
+
+
+--Pokémon League|e1_e|elite-four|Kayla
+--Pokémon League|e1_e|elite-four|Eduard
+--Pokémon League|e1_e|elite-four|Yuki
+--Pokémon League|e1_e|elite-four|London
+--Pokémon League Champion|e1_e|elite-four|Reukra
+
+
+
 Crystal Caves|tentacool,kingler,goldeen,staryu,starmie,gyarados,lapras,mew,slowking,corsola,remoraid,sableye,grumpig,relicanth,mismagius,victini,gigalith,palpitoad,druddigon,clauncher,carbink,diancie
 
 Mount Rose|charmander,nidoqueen,clefable,arcanine,poliwrath,tentacool,slowbro,doduo,dewgong,kingler,politoed,dunsparce,granbull,scizor,heracross,pelipper,ninjask,shedinja,wailmer,swablu,barboach,whiscash,registeel,wormadam,leavanny,swanna,escavalier,frillish,alomomola,accelgor,deino,spritzee,slurpuff,barbaracle,delta-phantump,tentacool,golem,slowbro,dewgong,kingler,starmie,quagsire,steelix,ursaring,sableye,aggron,wailmer,barboach,whiscash,claydol,glalie,jirachi,gigalith,excadrill,frillish,alomomola,beartic,barbaracle,tentacool,slowbro,dewgong,kingler,politoed,granbull,heracross,corsola,octillery,stantler,sceptile,ninjask,shedinja,sharpedo,wailmer,barboach,whiscash,empoleon,carracosta,swanna,escavalier,frillish,alomomola,accelgor,chesnaught,barbaracle
@@ -173,7 +185,6 @@ Power Farm|delta-pawniard
 Prion Town|delta-doduo
 REM Ocean|gengar,hypno,magikarp,grumpig,drifblim,bronzong,musharna,gothitelle,jellicent
 Rem Village|gengar,magikarp,mismagius,spiritomb,dusknoir,darkrai,musharna,zoroark,gothitelle,reuniclus,jellicent,mandibuzz
-Rezzai Cavern|dugtrio,geodude,graveler,onix,marowak,gyarados,quagsire,qwilfish,shuckle,nosepass,regirock,gastrodon,roggenrola,boldore,palpitoad,seismitoad,dwebble,axew,carbink
 
 Roaming encounter can replace Pokemon encounters in Murk Forest|cresselia
 Roaming encounter after subjugating Arceus|raikou,entei,suicune

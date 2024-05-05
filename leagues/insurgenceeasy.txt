@@ -403,7 +403,7 @@ shaymin|80|natural-gift,energy-ball,aromatherapy,worry-seed|natural-cure|leftove
 ### This fight was previously labelled as Damian's first fight.
 ### Damian's Shaymin will always be in Land Forme during the
 ### night, and this should always be easier to deal with, so I used Damian's
-### night-time teams for the fifth and extra fights.
+### night-time teams for the fifth fight.
 ### (Day/night teams are otherwise identical.)
 
 ### Damian's extra fight (previously labelled as second) is postgame.

@@ -82,6 +82,7 @@ wind-force|When the user is hit by a Flying-type move, its Speed is increased by
 winter-joy|During November-February, the user's Attack and Special Attack are increased by 40%. During May-August, the user's Attack and Special Attack are decreased by 30%.
 
 
+
 --item
 dragon-fang||Doubles Delta Clamperl's Attack  
 dragon-scale||Doubles Delta Clamperl's Defense
