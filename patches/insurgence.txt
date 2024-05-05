@@ -34,9 +34,13 @@ dragon-scale||Doubles Delta Clamperl's Defense
 metal-powder||Doubles Delta Ditto's Defense
 quick-powder||Doubles Delta Ditto's Speed
 dark-rock|heat-rock|Lengthens duration of New Moon and Noctem from 5 turns to 8 turns when used by the holder.
-d-volcarona-armor|assault-vest|Increases Delta Volcarona's base Defense stat from 65 to 85 and base Special Defense stat from 105 to 137 when held.
-zekrom-armor|assault-vest|Increases Zekrom's base Defense stat from 120 to 156 and base Special Defense stat from 100 to 130 when held.
+
 tyranitar-armor|assault-vest|Increases Tyranitar's base Defense stat from 110 to 143 and base Special Defense stat from 100 to 130 when held.
+flygon-armor||Increases Flygon's base Defense stat from 80 to 104 and base Special Defense stat from 80 to 104 when held.
+leavanny-armor||Increases Leavanny's base Defense stat from 80 to 104 and base Special Defense stat from 80 to 104 when held.
+zekrom-armor|assault-vest|Increases Zekrom's base Defense stat from 120 to 156 and base Special Defense stat from 100 to 130 when held.
+d-volcarona-armor|assault-vest|Increases Delta Volcarona's base Defense stat from 65 to 85 and base Special Defense stat from 105 to 137 when held.
+mewtwo-armour||Changes Mewtwo's ability to Hubris when held. Does not offer any increase to defensive stats.
 
 poliwrathite|absolite|Allows Poliwrath to Mega Evolve into Mega Poliwrath when held during battle.
 marowite||Allows Marowak to Mega Evolve into Mega Marowak when held during battle.
