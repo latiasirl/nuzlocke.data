@@ -133,7 +133,7 @@ Nexa Border|poliwhirl,slowpoke,horsea,goldeen,swampert,gardevoir,wailord,whiscas
 Nexa Town|blastoise,poliwhirl,slowpoke,kingler,horsea,goldeen,azumarill,ludicolo,wailord,whiscash,crawdaunt,luvdisc,mantyke,clauncher,clawitzer
 Victory Road|blastoise,charizard,machamp,slowbro,kingler,electrode,goldeen,jynx,dragonite,azumarill,remoraid,octillery,tyranitar,ludicolo,slaking,aggron,sharpedo,wailord,crawdaunt,feebas,absol,glalie,salamence,regice,finneon,lumineon,abomasnow,weavile,glaceon,dusknoir,serperior,excadrill,darmanitan,carracosta,cryogonal,volcarona,virizion,tornadus,kyurem,talonflame,clawitzer,hawlucha,goodra,avalugg,delta-petilil-water
 --Pokémon League|e1_e|elite-four|Kayla
---Pokémon League|e1_e|elite-four|Eduard
---Pokémon League|e1_e|elite-four|Yuki
---Pokémon League|e1_e|elite-four|London
---Pokémon League Champion|e1_e|elite-four|Reukra
+--Pokémon League|e2_e|elite-four|Eduard
+--Pokémon League|e3_e|elite-four|Yuki
+--Pokémon League|e4_e|elite-four|London
+--Pokémon League Champion|ec_e|elite-four|Reukra
