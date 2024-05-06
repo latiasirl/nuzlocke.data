@@ -4,25 +4,47 @@ Starter|eevee,delta-bulbasaur,delta-charmander,delta-squirtle
 --Telnor Town|d1_e|rival|Damian
 Shade Forest|caterpie,pikachu,weedle,nidoran-f,nidoran-m,poliwag,gastly,magikarp,gyarados,remoraid,octillery,mantyke,patrat,tympole,seismitoad
 Telnor Cave|diglett,geodude,onix,cubone,magikarp,gyarados,wooper,qwilfish,nosepass,baltoy,shellos,roggenrola,tympole,seismitoad,delta-diglett
+Route 1|meowth,ponyta,magikarp,gyarados,hoppip,lotad,barboach,whiscash,oshawott,blitzle,bunnelby,skrelp,dragalge,delta-dwebble-cake
+Dark Cave|zubat,golbat,abra,kadabra,geodude,graveler,krabby,kingler,qwilfish,poochyena,mightyena,carvanha,sharpedo,corphish,crawdaunt,purrloin,liepard,ducklett
+Midna Garden|tentacool,shellder,cloyster,exeggcute,magikarp,gyarados,dratini,surskit,piplup,stunky,heatmor,durant,cobalion
+Midna Mine|zubat,poliwag,geodude,seel,goldeen,seaking,shuckle,phanpy,nosepass,clamperl,huntail,gorebyss,luvdisc,roggenrola,woobat,drilbur,dwebble,carbink
 Midna Town|gastly,corsola,elekid,carvanha,sharpedo,buizel,finneon,lumineon,tympole,seismitoad
 --Midna Town|d2_e|rival|Damian
 --Midna Town|n1_e|rival|Nora
-Midna Garden|tentacool,shellder,cloyster,exeggcute,magikarp,gyarados,dratini,surskit,piplup,stunky,heatmor,durant,cobalion
-Midna Mine|zubat,poliwag,geodude,seel,goldeen,seaking,shuckle,phanpy,nosepass,clamperl,huntail,gorebyss,luvdisc,roggenrola,woobat,drilbur,dwebble,carbink
+Route 2|krabby,staryu,totodile,marill,corsola,remoraid,octillery,corphish,bidoof,buizel
 Ancient Ruins|sandshrew,tentacool,geodude,magikarp,gyarados,remoraid,tyrogue,riolu,mantyke,alomomola,delta-geodude
 --Ancient Ruins|abym_e|mini-boss|Abyssal Cultist
+Cyan Cavern|geodude,magnemite,onix,magikarp,gyarados,wooper,shuckle,whismur,makuhita,nosepass,sableye,relicanth,panpour,roggenrola,dwebble,pancham,carbink
+Broadcast Tower|latios,axew,deino,delta-grimer,delta-solosis
+Suntouched Exitway|magnemite,shellder,cloyster,onix,magikarp,gyarados,dratini,shuckle,whismur,makuhita,piplup,roggenrola,timburr,skrelp,clauncher
 Suntouched City|machop,krabby,zapdos,natu,corsola,remoraid,octillery,corphish,delta-aipom
 --Suntouched Gym|1_e|gym-leader|Orion
 
+Route 3|charmander,tentacool,dewgong,krabby,staryu,sudowoodo,mantine,seedot,nuzleaf,ralts,kirlia,mantyke,pansage,throh,sawk,petilil,basculin,delta-scyther
 Metchi Town|tentacool,dewgong,krabby,staryu,marill,basculin,alomomola,delta-ditto
 --Metchi Town|n2_e|rival|nora
+Friend Safari|caterpie,charmeleon,ekans,ivysaur,pidgey,pikachu,rattata,spearow,wartortle,weedle,sandshrew,nidorina,nidoqueen,nidorino,nidoking,clefairy,ninetales,jigglypuff,golbat,oddish,gloom,paras,venonat,diglett,meowth,psyduck,mankey,growlithe,poliwhirl,abra,machoke,weepinbell,tentacool,graveler,ponyta,slowpoke,magnemite,magneton,farfetchd,doduo,seel,muk,shellder,haunter,onix,drowzee,krabby,voltorb,exeggcute,cubone,lickitung,koffing,rhydon,chansey,tangela,kangaskhan,seadra,goldeen,staryu,mr.-mime,scyther,jynx,electabuzz,magmar,pinsir,tauros,magikarp,lapras,ditto,eevee,jolteon,porygon,omanyte,kabuto,aerodactyl,dragonair,bayleef,quilava,croconaw,sentret,hoothoot,ledyba,spinarak,chinchou,togetic,natu,flaaffy,marill,sudowoodo,hoppip,aipom,sunkern,yanma,wooper,murkrow,misdreavus,unown,girafarig,pineco,dunsparce,gligar,snubbull,qwilfish,scizor,shuckle,heracross,sneasel,teddiursa,slugma,piloswine,corsola,remoraid,delibird,skarmory,houndour,phanpy,stantler,smeargle,tyrogue,miltank,pupitar,grovyle,combusken,marshtomp,poochyena,zigzagoon,wurmple,lotad,nuzleaf,taillow,wingull,kirlia,surskit,shroomish,vigoroth,nincada,shedinja,loudred,makuhita,nosepass,skitty,sableye,mawile,lairon,meditite,electrike,plusle,minun,volbeat,illumise,roselia,gulpin,carvanha,wailmer,numel,torkoal,spoink,spinda,vibrava,cacnea,swablu,zangoose,seviper,lunatone,solrock,barboach,corphish,baltoy,lileep,anorith,feebas,castform,shuppet,dusclops,tropius,chimecho,wynaut,snorunt,sealeo,clamperl,luvdisc,shelgon,metang,grotle,monferno,prinplup,starly,bidoof,luxio,cranidos,shieldon,burmy,combee,pachirisu,buizel,cherubi,shellos,drifloon,buneary,glameow,stunky,bronzor,chatot,spiritomb,gabite,riolu,hippopotas,skorupi,croagunk,carnivine,mantyke,snover,leafeon,rotom,servine,pignite,dewott,patrat,herdier,purrloin,pansage,pansear,panpour,munna,pidove,blitzle,boldore,woobat,drilbur,audino,gurdurr,tympole,palpitoad,throh,sawk,sewaddle,swadloon,whirlipede,cottonee,petilil,basculin,krokorok,darumaka,maractus,dwebble,scraggy,sigilyph,yamask,tirtouga,archen,trubbish,zorua,minccino,gothorita,duosion,ducklett,vanillish,deerling,emolga,karrablast,foongus,frillish,alomomola,joltik,ferroseed,klang,eelektrik,elgyem,lampent,fraxure,cubchoo,cryogonal,shelmet,stunfisk,mienfoo,druddigon,golett,pawniard,bouffalant,rufflet,vullaby,heatmor,durant,zweilous,larvesta,quilladin,braixen,frogadier,bunnelby,fletchinder,scatterbug,litleo,floette,gogoat,pancham,furfrou,espurr,doublade,spritzee,swirlix,inkay,binacle,skrelp,clauncher,helioptile,tyrunt,amaura,sylveon,hawlucha,dedenne,carbink,sliggoo,klefki,phantump,pumpkaboo,bergmite,noibat
+Route 4|fearow,squirtle,poliwhirl,abra,ponyta,doduo,shellder,krabby,staryu,cyndaquil,chinchou,hoppip,skiploom,qwilfish,corsola,mudkip,wingull,barboach,mantyke,panpour,minccino,ducklett,frillish,furfrou,delta-ralts,delta-sunkern
 Vipik City|togepi,sneasel,delta-wooper
 --Vipik Gym|2_e|gym-leader|Xavier
 
+Vipik Dump|grimer,gulpin,stunky,venipede,trubbish
+Crossroads|growlithe,weepinbell,slowpoke,ditto,dunsparce,qwilfish,electrike,kecleon,piplup,stunky,fennekin,fletchling,clauncher
+Misty Way|psyduck,horsea,gyarados,quagsire,girafarig,wailmer,wailord,swablu,altaria,corphish,castform,spheal,mime-jr.,lumineon,palpitoad,frillish
+Mist Island|psyduck,horsea,gyarados,wailmer,wailord,corphish,spheal,latias,lumineon,palpitoad,frillish
+Route 5|seadra,dragonair,croconaw,lanturn,roselia,prinplup,luxray,glameow,servine,cottonee,floette
 Samsara Cave|machoke,geodude,graveler,marowak,gyarados,quagsire,qwilfish,shuckle,pupitar,nosepass,lunatone,solrock,gastrodon,riolu,roggenrola,boldore,palpitoad,seismitoad,dwebble,meloetta,carbink,delta-pidgey
+Koril Town|squirtle,tentacruel,cloyster,kingler,starmie,magikarp,lanturn,qwilfish,corsola,whiscash
+Scientists Club|omanyte,kabutops,lileep,archen
 Rezzai Desert|vibrava,hippopotas,krokorok,landorus
 Rezzai Cavern|dugtrio,geodude,graveler,onix,marowak,gyarados,quagsire,qwilfish,shuckle,nosepass,regirock,gastrodon,roggenrola,boldore,palpitoad,seismitoad,dwebble,axew,carbink
 --Rezzai Cavern|d3_e|rival|Damian
+Roggan Town|larvesta,delta-emolga
+Torren Game Corner|clefairy,abra,scyther,pinsir,eevee,porygon,chikorita,mareep,heracross,smoochum,bagon,starly,solosis,goomy
+Route 6|farfetchd,dewgong,seaking,magikarp,lapras,lanturn,qwilfish,plusle,minun,milotic,pachirisu,swanna,emolga,gogoat
+Route 7|dewgong,seaking,magikarp,lapras,lanturn,qwilfish,skitty,milotic,chimecho,chatot,stoutland,swanna,phantump,pumpkaboo
+Helios Sewers|geodude,grimer,koffing,shuckle,nosepass,gulpin,stunky,roggenrola,dwebble,yamask,trubbish,foongus,carbink,delta-heatmor
+
 Helios City|smeargle,barboach,wynaut,bonsly,delta-lotad
 --Perfection Base|perf1_e|evil-team|Taen
 --Jade Tower|3_e|gym-leader|East
@@ -34,13 +56,22 @@ Utira Town|slugma,corsola,remoraid,octillery,barboach,whiscash,corphish,gastrodo
 --Utira Town|n3_e|rival|Nora
 Utira Library|gengar,banette,dusclops,mismagius,litwick,delta-budew
 --Utira Library|ancm_e|mini-boss|Ancient Oracle
+Route 8|wigglytuff,rapidash,chansey,kangaskhan,snorlax,lanturn,corsola,remoraid,octillery,houndoom,barboach,whiscash,corphish,gastrodon,finneon,lumineon,swanna,spritzee,slurpuff,delta-munchlax
 Miara Town|machoke,tentacruel,haunter,lanturn,sunkern,slugma,corsola,remoraid,octillery,mantine,wailmer,barboach,whiscash,tropius,finneon,lumineon,delta-koffing
+Trade Outpost|delta-axew
+Miara Archaeological Site|geodude,shuckle,nosepass,roggenrola,dwebble,carbink
+Stormy Seas|tentacruel,magikarp,gyarados,lanturn,quagsire,qwilfish,wingull,sharpedo,wailmer,corphish,feebas,huntail,gorebyss,swanna
 Whirl Islands|tentacruel,geodude,golem,kingler,magikarp,gyarados,lanturn,qwilfish,shuckle,lugia,wingull,nosepass,lairon,sharpedo,wailmer,crawdaunt,feebas,glalie,sealeo,huntail,gorebyss,relicanth,roggenrola,gigalith,dwebble,swanna,cryogonal,carbink,delta-clamperl
 --Whirl Islands|abys1_e|evil-team|Audrey
+Route 9|raticate,ninetales,primeape,tentacruel,magikarp,gyarados,lanturn,qwilfish,treecko,mudkip,wingull,loudred,sharpedo,wailmer,feebas,huntail,gorebyss,swanna,honedge,hawlucha,klefki,delta-combee
+Sonata Tracks|zebstrika
+Sonata Hills|tentacruel,magikarp,gyarados,lanturn,qwilfish,wingull,sharpedo,wailmer,feebas,huntail,gorebyss,swanna,delta-litwick
 Sonata City|tentacruel,magikarp,gyarados,cyndaquil,lanturn,qwilfish,wingull,sharpedo,feebas,huntail,gorebyss,swanna
 --Sonata Gym|4_e|gym-leader|Harmony
 
-Sonata Hills|tentacruel,magikarp,gyarados,lanturn,qwilfish,wingull,sharpedo,wailmer,feebas,huntail,gorebyss,swanna,delta-litwick
+Route 10|tentacruel,magikarp,gyarados,lanturn,azumarill,politoed,qwilfish,phanpy,wingull,breloom,sharpedo,wailmer,feebas,huntail,gorebyss,turtwig,empoleon,carnivine,maractus,swanna,chespin,honedge
+Maelstrom 9|tentacruel,cloyster,seaking,magikarp,gyarados,lanturn,kingdra,wingull,carvanha,sharpedo,wailmer,feebas,huntail,gorebyss,relicanth,floatzel
+Lush Island|delta-dunsparce
 Kepler City|tentacruel,magikarp,gyarados,lanturn,qwilfish,wingull,sharpedo,wailmer,feebas,huntail,gorebyss,beldum,swanna
 --Abyssal Base|abys2_e|evil-team|Audrey
 --Kepler Gym|5_e|gym-leader|Anastasia
@@ -48,8 +79,9 @@ Kepler City|tentacruel,magikarp,gyarados,lanturn,qwilfish,wingull,sharpedo,wailm
 --Kepler Lab|perf2_e|evil-team|Taen
 Route 11|tentacruel,scyther,magikarp,gyarados,lanturn,qwilfish,miltank,sceptile,wingull,sharpedo,wailmer,feebas,tropius,wynaut,huntail,gorebyss,yanmega,swanna,klink
 Nasca Town|bulbasaur,charmander,squirtle,tentacruel,cloyster,magikarp,gyarados,lanturn,sudowoodo,qwilfish,shuckle,kingdra,wingull,sharpedo,wailmer,lunatone,solrock,feebas,huntail,gorebyss,relicanth,rampardos,crustle,swanna,carbink
-Nasca Cave|tentacruel,magikarp,gyarados,lanturn,sudowoodo,qwilfish,shuckle,wingull,sharpedo,wailmer,lunatone,solrock,feebas,huntail,gorebyss,rampardos,crustle,swanna,carbink
+Power Farm|delta-pawniard
 Safari Zone|sandslash,dugtrio,kingler,marowak,magikarp,gyarados,flareon,omastar,feraligatr,chinchou,lanturn,girafarig,qwilfish,corsola,delibird,kingdra,donphan,sceptile,flygon,claydol,cradily,feebas,huntail,gorebyss,purugly,hippowdon,drapion,weavile,yanmega,zebstrika,excadrill,audino,leavanny,krookodile,swanna,amoonguss,eelektross,golurk,heatmor,deino,thundurus,diggersby
+Nasca Cave|tentacruel,magikarp,gyarados,lanturn,sudowoodo,qwilfish,shuckle,wingull,sharpedo,wailmer,lunatone,solrock,feebas,huntail,gorebyss,rampardos,crustle,swanna,carbink
 Murk Forest|beedrill,butterfree,vileplume,venomoth,tentacruel,magikarp,gyarados,ariados,lanturn,qwilfish,wingull,sableye,volbeat,illumise,sharpedo,wailmer,feebas,absol,huntail,gorebyss,chimchar,honchkrow,scraggy,swanna,joltik,keldeo,froakie,delta-scraggy,delta-shinx,delta-metang-spider
 Hekate Town|tentacruel,haunter,magikarp,gyarados,lanturn,qwilfish,wingull,sharpedo,wailmer,feebas,huntail,gorebyss,munchlax,cresselia,swanna
 Fiery Caverns|dugtrio,tentacruel,magmar,magikarp,gyarados,lanturn,qwilfish,magcargo,wingull,sharpedo,wailmer,camerupt,torkoal,feebas,huntail,gorebyss,simisear,darmanitan,swanna,delta-snorunt,heatran
@@ -69,177 +101,39 @@ Oranos Town|dewgong,horsea,seadra,magikarp,gyarados,dratini,dragonair,corsola,sh
 --Oranos Town|medm_e|mini-boss|Medium A. Williams
 Route 15|fearow,poliwag,seaking,staryu,gyarados,shuckle,corsola,octillery,manectric,sharpedo,zangoose,lunatone,solrock,corphish,crawdaunt,cradily,armaldo,absol,empoleon,togekiss,gigalith,darumaka,carracosta,zorua,swanna,alomomola,ferroseed,ferrothorn,druddigon,honedge,clawitzer,noibat,noivern
 Satellite Corps|genesect,delta-cyndaquil
+Crystal Caves|tentacool,kingler,goldeen,staryu,starmie,gyarados,lapras,mew,slowking,corsola,remoraid,sableye,grumpig,relicanth,mismagius,victini,gigalith,palpitoad,druddigon,clauncher,carbink,diancie
+Slither Forest|arbok,seviper,delta-deino
 Amphitrite City|kingler,seadra,dratini,octillery,sharpedo,wailord,clamperl,huntail,relicanth,empoleon,budew,lumineon,palpitoad,carracosta,swanna,barbaracle,noibat,delta-shuckle
 --Amphitrite Gym|7_e|gym-leader|Calreath
 
-
-
+Mt. Rose Base|granbull,heracross,stantler,sceptile,ninjask,shedinja,escavalier,accelgor,chesnaught,politoed,corsola,swanna,kingler,barbaracle,tentacool,whiscash,frillish,slowbro,dewgong,wailmer,barboach,alomomola
 --Perfection Base|perf4_e|evil-team|Taen
+Mount Rose|dunsparce,granbull,scizor,heracross,ninjask,shedinja,wormadam,leavanny,escavalier,accelgor,poliwrath,politoed,pelipper,swanna,kingler,barbaracle,tentacool,whiscash,frillish,slowbro,dewgong,wailmer,barboach,alomomola,spritzee,slurpuff,delta-phantump,golem,ursaring,sableye,aggron,claydol,gigalith,starmie,quagsire,nidoqueen,arcanine,clefable,charmander,doduo,swablu,deino,steelix,glalie,excadrill,beartic,jirachi
+Deyraan Town|dewgong,walrein,glaceon,zorua,delta-misdreavus
+Rose Crater|flareon,magcargo,houndoom,torchic,camerupt,emboar,darmanitan
 --Infernal Base|inf2_e|evil-team|Zenith
+Deyraan Cave|kingler,seadra,starmie,lapras,dragonair,chinchou,quagsire,qwilfish,wailord,glalie,clamperl,luvdisc,abomasnow,mamoswine,gigalith,basculin,vanilluxe,avalugg
+Route 16|poliwag,drowzee,kingler,lickitung,horsea,furret,azumarill,remoraid,mantine,altaria,crawdaunt,feebas,huntail,luvdisc,honchkrow,chatot,palpitoad,seismitoad,carracosta,emolga,floette,pangoro,doublade,malamar,binacle,heliolisk,delta-girafarig
+Narra Town|venusaur,kingler,kangaskhan,pinsir,furret,ledian,azumarill,heracross,corsola,barboach,crawdaunt,clamperl,huntail,relicanth,palpitoad,carracosta,alomomola,heliolisk,delta-growlithe
+Narra Border|kingler,omastar,kabutops,corsola,swampert,barboach,crawdaunt,cradily,armaldo,clamperl,huntail,relicanth,rampardos,palpitoad,crustle,carracosta,alomomola,tyrantrum,aurorus
+Prion Town|delta-doduo
 --Prion Town|dark2_e|evil-team|Persephone
+Cortisol Road|clefable,ninetales,drowzee,munna,musharna,zorua,delta-chinchou
 --Cortisol Road|d5_e|rival|Damian
+Cerebrum Town|delta-yamask
+REM Ocean|gengar,hypno,magikarp,grumpig,drifblim,bronzong,musharna,gothitelle,jellicent
+Erebus City|magby,shaymin,druddigon,delta-bulbasaur,delta-charmander,delta-squirtle
 --Erebus Gym|8_e|gym-leader|Adam
 
-
-
 --Crystal Caves|j2_e|evil-team|Jaern
+Void Gauntlet|beedrill,butterfree,raticate,rattata,sandslash,zubat,golbat,paras,growlithe,graveler,grimer,gastly,haunter,cubone,koffing,weezing,moltres,hoothoot,ledyba,pineco,steelix,donphan,pupitar,shroomish,lairon,kricketot,rhyperior,dialga,palkia,petilil,durant,zygarde
+Throne of the Hegemon|giratina,arceus
 --Throne of the Hegemon|nyx_e|evil-team|Nyx
-
-
+Nexa Border|poliwhirl,slowpoke,horsea,goldeen,swampert,gardevoir,wailord,whiscash,luvdisc,salamence,torterra,empoleon,mantyke,gallade,hydreigon,greninja,aegislash,clauncher,clawitzer,goodra
+Nexa Town|blastoise,poliwhirl,slowpoke,kingler,horsea,goldeen,azumarill,ludicolo,wailord,whiscash,crawdaunt,luvdisc,mantyke,clauncher,clawitzer
+Victory Road|blastoise,charizard,machamp,slowbro,kingler,electrode,goldeen,jynx,dragonite,azumarill,remoraid,octillery,tyranitar,ludicolo,slaking,aggron,sharpedo,wailord,crawdaunt,feebas,absol,glalie,salamence,regice,finneon,lumineon,abomasnow,weavile,glaceon,dusknoir,serperior,excadrill,darmanitan,carracosta,cryogonal,volcarona,virizion,tornadus,kyurem,talonflame,clawitzer,hawlucha,goodra,avalugg,delta-petilil-water
 --Pokémon League|e1_e|elite-four|Kayla
 --Pokémon League|e1_e|elite-four|Eduard
 --Pokémon League|e1_e|elite-four|Yuki
 --Pokémon League|e1_e|elite-four|London
 --Pokémon League Champion|e1_e|elite-four|Reukra
-
-
-
-Crystal Caves|tentacool,kingler,goldeen,staryu,starmie,gyarados,lapras,mew,slowking,corsola,remoraid,sableye,grumpig,relicanth,mismagius,victini,gigalith,palpitoad,druddigon,clauncher,carbink,diancie
-
-Mount Rose|charmander,nidoqueen,clefable,arcanine,poliwrath,tentacool,slowbro,doduo,dewgong,kingler,politoed,dunsparce,granbull,scizor,heracross,pelipper,ninjask,shedinja,wailmer,swablu,barboach,whiscash,registeel,wormadam,leavanny,swanna,escavalier,frillish,alomomola,accelgor,deino,spritzee,slurpuff,barbaracle,delta-phantump,tentacool,golem,slowbro,dewgong,kingler,starmie,quagsire,steelix,ursaring,sableye,aggron,wailmer,barboach,whiscash,claydol,glalie,jirachi,gigalith,excadrill,frillish,alomomola,beartic,barbaracle,tentacool,slowbro,dewgong,kingler,politoed,granbull,heracross,corsola,octillery,stantler,sceptile,ninjask,shedinja,sharpedo,wailmer,barboach,whiscash,empoleon,carracosta,swanna,escavalier,frillish,alomomola,accelgor,chesnaught,barbaracle
-
-
-
-
-Alpha Temple|unown,lucario,hydreigon,aegislash
-
-
-
-Armor Fossil|shieldon
-Battle Frontier|delta-plusle,delta-minun,delta-golett,mewtwo
-Broadcast Tower|latios,axew,deino,delta-grimer,delta-solosis
-
-Cerebrum Town|delta-yamask
-Claw Fossil|anorith
-Cloud Bottle|delta-hoopa
-Coatlicue Gardens|xerneas
-Cortisol Road|clefable,ninetales,drowzee,munna,musharna,zorua,delta-chinchou
-Cover Fossil|tirtouga
-Crossroads|growlithe,weepinbell,slowpoke,ditto,dunsparce,qwilfish,electrike,kecleon,piplup,stunky,fennekin,fletchling,clauncher
-
-Cyan Cavern|geodude,magnemite,onix,magikarp,gyarados,wooper,shuckle,whismur,makuhita,nosepass,sableye,relicanth,panpour,roggenrola,dwebble,pancham,carbink
-Dark Cave|zubat,golbat,abra,kadabra,geodude,graveler,krabby,kingler,qwilfish,poochyena,mightyena,carvanha,sharpedo,corphish,crawdaunt,purrloin,liepard,ducklett
-Deep Cavern|tentacruel,kyogre
-Deep Mantle|magcargo,houndoom,sableye,camerupt,spiritomb,excadrill,darmanitan,chandelure,bisharp,heatmor
-Dev Island|uxie,mesprit,azelf
-Deyraan Cave|kingler,seadra,starmie,lapras,dragonair,chinchou,quagsire,qwilfish,wailord,glalie,clamperl,luvdisc,abomasnow,mamoswine,gigalith,basculin,vanilluxe,avalugg
-Deyraan Town|dewgong,walrein,glaceon,zorua,delta-misdreavus
-Dome Fossil|kabuto
-
-Erebus City|magby,shaymin,druddigon,delta-bulbasaur,delta-charmander,delta-squirtle
-
-Friend Safari|caterpie,charmeleon,ekans,ivysaur,pidgey,pikachu,rattata,spearow,wartortle,weedle,sandshrew,nidorina,nidoqueen,nidorino,nidoking,clefairy,ninetales,jigglypuff,golbat,oddish,gloom,paras,venonat,diglett,meowth,psyduck,mankey,growlithe,poliwhirl,abra,machoke,weepinbell,tentacool,graveler,ponyta,slowpoke,magnemite,magneton,farfetchd,doduo,seel,muk,shellder,haunter,onix,drowzee,krabby,voltorb,exeggcute,cubone,lickitung,koffing,rhydon,chansey,tangela,kangaskhan,seadra,goldeen,staryu,mr.-mime,scyther,jynx,electabuzz,magmar,pinsir,tauros,magikarp,lapras,ditto,eevee,jolteon,porygon,omanyte,kabuto,aerodactyl,dragonair,bayleef,quilava,croconaw,sentret,hoothoot,ledyba,spinarak,chinchou,togetic,natu,flaaffy,marill,sudowoodo,hoppip,aipom,sunkern,yanma,wooper,murkrow,misdreavus,unown,girafarig,pineco,dunsparce,gligar,snubbull,qwilfish,scizor,shuckle,heracross,sneasel,teddiursa,slugma,piloswine,corsola,remoraid,delibird,skarmory,houndour,phanpy,stantler,smeargle,tyrogue,miltank,pupitar,grovyle,combusken,marshtomp,poochyena,zigzagoon,wurmple,lotad,nuzleaf,taillow,wingull,kirlia,surskit,shroomish,vigoroth,nincada,shedinja,loudred,makuhita,nosepass,skitty,sableye,mawile,lairon,meditite,electrike,plusle,minun,volbeat,illumise,roselia,gulpin,carvanha,wailmer,numel,torkoal,spoink,spinda,vibrava,cacnea,swablu,zangoose,seviper,lunatone,solrock,barboach,corphish,baltoy,lileep,anorith,feebas,castform,shuppet,dusclops,tropius,chimecho,wynaut,snorunt,sealeo,clamperl,luvdisc,shelgon,metang,grotle,monferno,prinplup,starly,bidoof,luxio,cranidos,shieldon,burmy,combee,pachirisu,buizel,cherubi,shellos,drifloon,buneary,glameow,stunky,bronzor,chatot,spiritomb,gabite,riolu,hippopotas,skorupi,croagunk,carnivine,mantyke,snover,leafeon,rotom,servine,pignite,dewott,patrat,herdier,purrloin,pansage,pansear,panpour,munna,pidove,blitzle,boldore,woobat,drilbur,audino,gurdurr,tympole,palpitoad,throh,sawk,sewaddle,swadloon,whirlipede,cottonee,petilil,basculin,krokorok,darumaka,maractus,dwebble,scraggy,sigilyph,yamask,tirtouga,archen,trubbish,zorua,minccino,gothorita,duosion,ducklett,vanillish,deerling,emolga,karrablast,foongus,frillish,alomomola,joltik,ferroseed,klang,eelektrik,elgyem,lampent,fraxure,cubchoo,cryogonal,shelmet,stunfisk,mienfoo,druddigon,golett,pawniard,bouffalant,rufflet,vullaby,heatmor,durant,zweilous,larvesta,quilladin,braixen,frogadier,bunnelby,fletchinder,scatterbug,litleo,floette,gogoat,pancham,furfrou,espurr,doublade,spritzee,swirlix,inkay,binacle,skrelp,clauncher,helioptile,tyrunt,amaura,sylveon,hawlucha,dedenne,carbink,sliggoo,klefki,phantump,pumpkaboo,bergmite,noibat
-Gaea Core|unown,smeargle,regigigas,eelektross,beheeyem
-Gaea Town|golduck,slowbro,dratini,qwilfish,celebi,corphish,feebas,lumineon,seismitoad,darumaka,jellicent,clawitzer
-
-
-Helios Sewers|geodude,grimer,koffing,shuckle,nosepass,gulpin,stunky,roggenrola,dwebble,yamask,trubbish,foongus,carbink,delta-heatmor
-Helix Fossil|omanyte
-Holon Desert|machamp,golem,marowak,flygon,solrock,claydol,lopunny,hippowdon,tangrowth,gliscor,delta-tangela,delta-buneary,delta-regirock
-Holon Grasslands|tentacool,slowbro,dewgong,kingler,lanturn,octillery,sceptile,mawile,carvanha,crawdaunt,huntail,gorebyss,mothim,combee,unfezant,tympole,seismitoad,lilligant,escavalier,accelgor,pyroar,clawitzer,delta-treecko,delta-mawile,delta-petilil-fairy,delta-karrablast
-Holon Jungle|bayleef,aipom,cacturne,skuntank,toxicroak,crustle,amoonguss,trevenant,gourgeist,delta-kabuto,delta-croagunk,delta-darumaka,delta-dwebble-berry,delta-foongus
-Holon Lake|clefable,golduck,tentacruel,dewgong,starmie,ditto,dragonair,lanturn,mantine,ludicolo,plusle,minun,wailord,lunatone,solrock,huntail,gorebyss,luvdisc,metagross,torterra,mamoswine,snivy,basculin,barbaracle,delta-turtwig,delta-snivy
-Holon Marsh|butterfree,tentacruel,dodrio,politoed,remoraid,corphish,crawdaunt,finneon,lumineon,yanmega,tympole,palpitoad,eelektross,greninja,malamar,barbaracle,delta-froakie,delta-tentacool,delta-yanma,delta-goomy
-Holon Mountain|tentacruel,dewgong,seaking,lapras,noctowl,chinchou,lanturn,shiftry,medicham,barboach,clamperl,huntail,lumineon,abomasnow,glaceon,cryogonal,malamar,clauncher,delta-hoothoot,delta-seedot,delta-meditite
-Holon Pyramid|gengar,espeon,umbreon,unown,mismagius,lucario,chandelure,delta-torchic,delta-riolu
-Holon Undercave|poliwag,poliwhirl,golem,seel,kingler,marowak,seadra,staryu,dragonair,lanturn,quagsire,swampert,wailord,whiscash,huntail,gorebyss,luvdisc,gabite,tympole,palpitoad,carracosta,jellicent,alomomola,stunfisk,golurk,delta-dratini,delta-magby,delta-regice
-Holon Volcano|charizard,magikarp,tyranitar,aggron,excadrill,darmanitan,volcarona,talonflame,delta-remoraid,delta-sableye,delta-aron,delta-venipede,delta-registeel
-Infernal Dungeon|magcargo,houndoom,camerupt,darmanitan,chandelure,heatmor,volcanion,heatran
-
-Jaw Fossil|tyrunt
-
-koril Cave|hitmonlee,hitmonchan,kabutops,lanturn,qwilfish,hitmontop,gastrodon,terrakion,skrelp
-Koril Town|squirtle,tentacruel,cloyster,kingler,starmie,magikarp,lanturn,qwilfish,corsola,whiscash
-Lost Pond|delta-amaura
-Lush Island|delta-dunsparce
-Maelstrom 9|tentacruel,cloyster,seaking,magikarp,gyarados,lanturn,kingdra,wingull,carvanha,sharpedo,wailmer,feebas,huntail,gorebyss,relicanth,floatzel
-
-Miara Archaeological Site|geodude,shuckle,nosepass,roggenrola,dwebble,carbink
-
-
-
-
-Mimry Gardens|delta-meloetta
-Mist Island|psyduck,horsea,gyarados,wailmer,wailord,corphish,spheal,latias,lumineon,palpitoad,frillish
-Misty Way|psyduck,horsea,gyarados,quagsire,girafarig,wailmer,wailord,swablu,altaria,corphish,castform,spheal,mime-jr.,lumineon,palpitoad,frillish
-
-Mountainous Cave|tentacruel,golem,kingler,seaking,lapras,kabutops,chinchou,lanturn,aggron,lunatone,solrock,barboach,whiscash,clamperl,huntail,gabite,lumineon,gigalith,carracosta,clauncher,carbink,delta-elekid
-
-
-Narra Border|kingler,omastar,kabutops,corsola,swampert,barboach,crawdaunt,cradily,armaldo,clamperl,huntail,relicanth,rampardos,palpitoad,crustle,carracosta,alomomola,tyrantrum,aurorus
-Narra Town|venusaur,kingler,kangaskhan,pinsir,furret,ledian,azumarill,heracross,corsola,barboach,crawdaunt,clamperl,huntail,relicanth,palpitoad,carracosta,alomomola,heliolisk,delta-growlithe
-
-
-Nexa Border|poliwhirl,slowpoke,horsea,goldeen,swampert,gardevoir,wailord,whiscash,luvdisc,salamence,torterra,empoleon,mantyke,gallade,hydreigon,greninja,aegislash,clauncher,clawitzer,goodra
-Nexa Town|blastoise,poliwhirl,slowpoke,kingler,horsea,goldeen,azumarill,ludicolo,wailord,whiscash,crawdaunt,luvdisc,mantyke,clauncher,clawitzer
-Nightmare Badlands|gengar,magikarp,deoxys,mismagius,spiritomb,dusknoir,musharna,zoroark,gothitelle,reuniclus,jellicent,mandibuzz,hoopa
-No Man's Land|jynx,ditto,articuno,solrock,weavile,mamoswine,froslass,hydreigon,aurorus,glaceon
-Old Amber|aerodactyl
-Oort Cloud Object|ufi
-
-Outer Core|groudon
-Perfection Laboratory|delta-larvesta,mewtwo
-Plume Fossil|archen
-Pokémon League|machamp,gardevoir,lucario
-Power Farm|delta-pawniard
-Prion Town|delta-doduo
-REM Ocean|gengar,hypno,magikarp,grumpig,drifblim,bronzong,musharna,gothitelle,jellicent
-Rem Village|gengar,magikarp,mismagius,spiritomb,dusknoir,darkrai,musharna,zoroark,gothitelle,reuniclus,jellicent,mandibuzz
-
-Roaming encounter can replace Pokemon encounters in Murk Forest|cresselia
-Roaming encounter after subjugating Arceus|raikou,entei,suicune
-Roggan Town|larvesta,delta-emolga
-Root Fossil|lileep
-Rose Crater|flareon,magcargo,houndoom,torchic,camerupt,emboar,darmanitan
-Route 10|tentacruel,magikarp,gyarados,lanturn,azumarill,politoed,qwilfish,phanpy,wingull,breloom,sharpedo,wailmer,feebas,huntail,gorebyss,turtwig,empoleon,carnivine,maractus,swanna,chespin,honedge
-
-
-
-
-
-Route 16|poliwag,drowzee,kingler,lickitung,horsea,furret,azumarill,remoraid,mantine,altaria,crawdaunt,feebas,huntail,luvdisc,honchkrow,chatot,palpitoad,seismitoad,carracosta,emolga,floette,pangoro,doublade,malamar,binacle,heliolisk,delta-girafarig
-Route 17|bulbasaur,charizard,poliwag,poliwhirl,slowbro,dewgong,horsea,tauros,dratini,wailord,beldum,luxray,cherrim,lumineon,simipour,unfezant,basculin,frillish,bouffalant,chespin,froakie,clauncher,clawitzer
-Route 1|meowth,ponyta,magikarp,gyarados,hoppip,lotad,barboach,whiscash,oshawott,blitzle,bunnelby,skrelp,dragalge,delta-dwebble-cake
-Route 2|krabby,staryu,totodile,marill,corsola,remoraid,octillery,corphish,bidoof,buizel
-Route 3|charmander,tentacool,dewgong,krabby,staryu,sudowoodo,mantine,seedot,nuzleaf,ralts,kirlia,mantyke,pansage,throh,sawk,petilil,basculin,delta-scyther
-Route 4|fearow,squirtle,poliwhirl,abra,ponyta,doduo,shellder,krabby,staryu,cyndaquil,chinchou,hoppip,skiploom,qwilfish,corsola,mudkip,wingull,barboach,mantyke,panpour,minccino,ducklett,frillish,furfrou,delta-ralts,delta-sunkern
-Route 5|seadra,dragonair,croconaw,lanturn,roselia,prinplup,luxray,glameow,servine,cottonee,floette
-Route 6|farfetchd,dewgong,seaking,magikarp,lapras,lanturn,qwilfish,plusle,minun,milotic,pachirisu,swanna,emolga,gogoat
-Route 7|dewgong,seaking,magikarp,lapras,lanturn,qwilfish,skitty,milotic,chimecho,chatot,stoutland,swanna,phantump,pumpkaboo
-Route 8|wigglytuff,rapidash,chansey,kangaskhan,snorlax,lanturn,corsola,remoraid,octillery,houndoom,barboach,whiscash,corphish,gastrodon,finneon,lumineon,swanna,spritzee,slurpuff,delta-munchlax
-Route 9|raticate,ninetales,primeape,tentacruel,magikarp,gyarados,lanturn,qwilfish,treecko,mudkip,wingull,loudred,sharpedo,wailmer,feebas,huntail,gorebyss,swanna,honedge,hawlucha,klefki,delta-combee
-
-Sail Fossil|amaura
-
-
-Science Mission 1|omanyte,kabutops,lileep,archen
-
-Settlement Alfa|delta-beldum-ruin,delta-maractus
-Settlement Foxtrot|delta-beldum-ruin
-Settlement Juliet|glaceon,delta-feebas,delta-beldum-ruin
-Settlement Oscar|poliwag,dewgong,kingler,horsea,goldeen,octillery,whiscash,corphish,crawdaunt,feebas,palpitoad,clawitzer,delta-numel,delta-beldum-ruin
-
-Skull Fossil|cranidos
-Slither Forest|arbok,seviper,delta-deino
-Soaring|pidgeot,dragonite,skiploom,skarmory,swellow,pelipper,altaria,salamence,staraptor,drifblim,sigilyph,braviary,delta-drifloon,delta-pikachu,delta-wailmer
-
-
-Sonata Tracks|zebstrika
-
-Stormy Seas|tentacruel,magikarp,gyarados,lanturn,quagsire,qwilfish,wingull,sharpedo,wailmer,corphish,feebas,huntail,gorebyss,swanna
-
-Suntouched Exitway|magnemite,shellder,cloyster,onix,magikarp,gyarados,dratini,shuckle,whismur,makuhita,piplup,roggenrola,timburr,skrelp,clauncher
-
-
-Thanatos Cliffs|yveltal
-Throne of the Hegemon|giratina,arceus
-Torren Game Corner|clefairy,abra,scyther,pinsir,eevee,porygon,chikorita,mareep,heracross,smoochum,bagon,starly,solosis,goomy
-Trade Outpost|delta-axew
-Upper Mantle|magcargo,houndoom,sableye,camerupt,spiritomb,excadrill,darmanitan,chandelure,bisharp,heatmor
-
-
-Victory Road|blastoise,charizard,machamp,slowbro,kingler,electrode,goldeen,jynx,dragonite,azumarill,remoraid,octillery,tyranitar,ludicolo,slaking,aggron,sharpedo,wailord,crawdaunt,feebas,absol,glalie,salamence,regice,finneon,lumineon,abomasnow,weavile,glaceon,dusknoir,serperior,excadrill,darmanitan,carracosta,cryogonal,volcarona,virizion,tornadus,kyurem,talonflame,clawitzer,hawlucha,goodra,avalugg,delta-petilil-water
-
-Vipik Dump|grimer,gulpin,stunky,venipede,trubbish
-Void Gauntlet|beedrill,butterfree,raticate,rattata,sandslash,zubat,golbat,paras,growlithe,graveler,grimer,gastly,haunter,cubone,koffing,weezing,moltres,hoothoot,ledyba,pineco,steelix,donphan,pupitar,shroomish,lairon,kricketot,rhyperior,dialga,palkia,petilil,durant,zygarde
-

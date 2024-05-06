@@ -1,0 +1,76 @@
+Alpha Temple|unown,lucario,hydreigon,aegislash
+
+
+
+Armor Fossil|shieldon
+Battle Frontier|delta-plusle,delta-minun,delta-golett,mewtwo
+
+Claw Fossil|anorith
+Cloud Bottle|delta-hoopa
+Coatlicue Gardens|xerneas
+Cover Fossil|tirtouga
+
+Deep Cavern|tentacruel,kyogre
+Deep Mantle|magcargo,houndoom,sableye,camerupt,spiritomb,excadrill,darmanitan,chandelure,bisharp,heatmor
+Dev Island|uxie,mesprit,azelf
+Dome Fossil|kabuto
+
+
+Gaea Core|unown,smeargle,regigigas,eelektross,beheeyem
+Gaea Town|golduck,slowbro,dratini,qwilfish,celebi,corphish,feebas,lumineon,seismitoad,darumaka,jellicent,clawitzer
+
+
+Helix Fossil|omanyte
+Holon Desert|machamp,golem,marowak,flygon,solrock,claydol,lopunny,hippowdon,tangrowth,gliscor,delta-tangela,delta-buneary,delta-regirock
+Holon Grasslands|tentacool,slowbro,dewgong,kingler,lanturn,octillery,sceptile,mawile,carvanha,crawdaunt,huntail,gorebyss,mothim,combee,unfezant,tympole,seismitoad,lilligant,escavalier,accelgor,pyroar,clawitzer,delta-treecko,delta-mawile,delta-petilil-fairy,delta-karrablast
+Holon Jungle|bayleef,aipom,cacturne,skuntank,toxicroak,crustle,amoonguss,trevenant,gourgeist,delta-kabuto,delta-croagunk,delta-darumaka,delta-dwebble-berry,delta-foongus
+Holon Lake|clefable,golduck,tentacruel,dewgong,starmie,ditto,dragonair,lanturn,mantine,ludicolo,plusle,minun,wailord,lunatone,solrock,huntail,gorebyss,luvdisc,metagross,torterra,mamoswine,snivy,basculin,barbaracle,delta-turtwig,delta-snivy
+Holon Marsh|butterfree,tentacruel,dodrio,politoed,remoraid,corphish,crawdaunt,finneon,lumineon,yanmega,tympole,palpitoad,eelektross,greninja,malamar,barbaracle,delta-froakie,delta-tentacool,delta-yanma,delta-goomy
+Holon Mountain|tentacruel,dewgong,seaking,lapras,noctowl,chinchou,lanturn,shiftry,medicham,barboach,clamperl,huntail,lumineon,abomasnow,glaceon,cryogonal,malamar,clauncher,delta-hoothoot,delta-seedot,delta-meditite
+Holon Pyramid|gengar,espeon,umbreon,unown,mismagius,lucario,chandelure,delta-torchic,delta-riolu
+Holon Undercave|poliwag,poliwhirl,golem,seel,kingler,marowak,seadra,staryu,dragonair,lanturn,quagsire,swampert,wailord,whiscash,huntail,gorebyss,luvdisc,gabite,tympole,palpitoad,carracosta,jellicent,alomomola,stunfisk,golurk,delta-dratini,delta-magby,delta-regice
+Holon Volcano|charizard,magikarp,tyranitar,aggron,excadrill,darmanitan,volcarona,talonflame,delta-remoraid,delta-sableye,delta-aron,delta-venipede,delta-registeel
+Infernal Dungeon|magcargo,houndoom,camerupt,darmanitan,chandelure,heatmor,volcanion,heatran
+
+Jaw Fossil|tyrunt
+
+koril Cave|hitmonlee,hitmonchan,kabutops,lanturn,qwilfish,hitmontop,gastrodon,terrakion,skrelp
+Lost Pond|delta-amaura
+Mimry Gardens|delta-meloetta
+
+Mountainous Cave|tentacruel,golem,kingler,seaking,lapras,kabutops,chinchou,lanturn,aggron,lunatone,solrock,barboach,whiscash,clamperl,huntail,gabite,lumineon,gigalith,carracosta,clauncher,carbink,delta-elekid
+
+
+
+Nightmare Badlands|gengar,magikarp,deoxys,mismagius,spiritomb,dusknoir,musharna,zoroark,gothitelle,reuniclus,jellicent,mandibuzz,hoopa
+No Man's Land|jynx,ditto,articuno,solrock,weavile,mamoswine,froslass,hydreigon,aurorus,glaceon
+Old Amber|aerodactyl
+Oort Cloud Object|ufi
+
+Outer Core|groudon
+Perfection Laboratory|delta-larvesta,mewtwo
+Plume Fossil|archen
+Pokémon League|machamp,gardevoir,lucario
+Rem Village|gengar,magikarp,mismagius,spiritomb,dusknoir,darkrai,musharna,zoroark,gothitelle,reuniclus,jellicent,mandibuzz
+
+Roaming encounter can replace Pokemon encounters in Murk Forest|cresselia
+Roaming encounter after subjugating Arceus|raikou,entei,suicune
+Root Fossil|lileep
+
+
+Route 17|bulbasaur,charizard,poliwag,poliwhirl,slowbro,dewgong,horsea,tauros,dratini,wailord,beldum,luxray,cherrim,lumineon,simipour,unfezant,basculin,frillish,bouffalant,chespin,froakie,clauncher,clawitzer
+
+Sail Fossil|amaura
+
+
+
+Settlement Alfa|delta-beldum-ruin,delta-maractus
+Settlement Foxtrot|delta-beldum-ruin
+Settlement Juliet|glaceon,delta-feebas,delta-beldum-ruin
+Settlement Oscar|poliwag,dewgong,kingler,horsea,goldeen,octillery,whiscash,corphish,crawdaunt,feebas,palpitoad,clawitzer,delta-numel,delta-beldum-ruin
+
+Skull Fossil|cranidos
+Soaring|pidgeot,dragonite,skiploom,skarmory,swellow,pelipper,altaria,salamence,staraptor,drifblim,sigilyph,braviary,delta-drifloon,delta-pikachu,delta-wailmer
+
+Thanatos Cliffs|yveltal
+Upper Mantle|magcargo,houndoom,sableye,camerupt,spiritomb,excadrill,darmanitan,chandelure,bisharp,heatmor
