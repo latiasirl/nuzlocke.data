@@ -3,6 +3,7 @@
 ### Todo:
 ###   * Add sprites for more items. I believe all new item sprites are custom.
 ###   * Find out what Spicy Curry actually does.
+###   * Find the artists for MISSINGNO and UFI.
 ### Note: Mega Shadow Mewtwo isn't listed as it uses the existing Mewtwonite X.
 
 
@@ -161,6 +162,7 @@ delta-lucarionite||Allows Delta Lucario to Mega Evolve into Mega Delta Lucario w
 
 --fakemon
 
+33,136,0,6,6,29|MISSINGNO|missingno|flying,normal|/unown|missingno|(unsure-todo-find-artist)# /insurgence/missingno
 45,49,49,65,65,45|Delta Bulbasaur|delta-bulbasaur|fairy,psychic|/unown|delta-bulbasaur>delta-ivysaur|EchoTheThird# /insurgence/delta-bulbasaur
 60,62,63,80,80,60|Delta Ivysaur|delta-ivysaur|fairy,psychic|/unown|delta-bulbasaur>delta-venusaur|EchoTheThird# /insurgence/delta-ivysaur
 80,82,83,100,100,80|Delta Venusaur|delta-venusaur|fairy,psychic|/unown|delta-bulbasaur|EchoTheThird# /insurgence/delta-venusaur
@@ -359,6 +361,8 @@ delta-lucarionite||Allows Delta Lucario to Mega Evolve into Mega Delta Lucario w
 80,75,150,75,150,50|Delta Registeel|delta-registeel|fire|/unown|delta-registeel|Lucci85# /insurgence/delta-registeel
 100,128,90,77,77,128|Delta Meloetta|delta-meloetta|dark,fairy|/unown|delta-meloetta|mushgloom# /insurgence/delta-meloetta
 80,110,60,150,130,70|Delta Hoopa|delta-hoopa|flying|/unown|delta-hoopa|TerraTerraCotta# /insurgence/delta-hoopa
+100,100,100,100,100,100|UFI|ufi|psychic,electric|/unown|ufi|(unsure-todo-find-artist)# /insurgence/ufi
+
 
 ### Permissions
 ## Cant reach
